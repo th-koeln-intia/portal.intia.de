@@ -1,26 +1,30 @@
-IZ:
-  name: Isabel Zorn
-  domain: Soziale Arbeit
-  role: Projektleitung
-  profession: Professor
-SB:
-  name: Stefan Bente
-  domain: Informatik
-  profession: Professor
-CK:
-  name: Christian Kohls
-  domain: Soziale Informatik
-  profession: Professor
-BM:
-  name: Birgit Mager
-  domain: Service Design
-  profession: Professor
-MS:
-  name: Marc Schmidt
-  domain: Informatik 
-  profession: Wissenschaftlicher Mitarbeiter
-JS:
-DW:
-JR:
-CK:
-CJ:
+- tier_name: Professoren
+  description: |-
+    Die Professoren des Forschungsprojektes INTIA
+  sponsors:
+    - name: Isabel Zorn
+      profile: https://www.th-koeln.de/personen/isabel.zorn/
+    - name: Stefan Bente
+      profile: https://www.th-koeln.de/personen/stefan.bente/
+    - name: Christian Kohls
+      profile: https://www.th-koeln.de/personen/christian.kohls/
+    - name: Birgit Mager
+      profile: https://www.th-koeln.de/personen/birgit.mager/
+- tier_name: Wissenschaftliche Mitarbeiter
+  description: |-
+    Die Mitarbeiter des Projektes
+  sponsors:
+    - name: Janina Rösch
+    - name: Hanna Thielmann
+    - name: Caroline Kortekaas
+    - name: Carola Janda
+    - name: Jan Seidler
+    - name: Dennis Wilk
+    - name: Marc Schmidt
+- tier_name: Projektpartner
+  description: |-
+    Die Projektpartner die uns tatkräftig bei unserer Arbeit unterstützt haben
+  sponsors:
+    - name: FJMK
+    - name: Diakonie Michaelshoven
+    - name: ...
