@@ -1,3 +1,10 @@
+- name: Innovationskoffer
+  link: /innovation/
+  dropdown:
+    - name: Technikblöcke
+      link: /buildingblocks/
+- name: Methods
+  link: /methods/
 - name: Stories
   link: /stories/
 - name: Demos
