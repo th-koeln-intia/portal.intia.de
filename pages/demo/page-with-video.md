@@ -4,7 +4,7 @@ title: Page With Video
 description: A page with an embedded YouTube video
 menubar: example_menu
 show_sidebar: false
-permalink: /page-with-video
+permalink: /page-with-video/
 ---
 
 This is an example page with an embedded YouTube video. 

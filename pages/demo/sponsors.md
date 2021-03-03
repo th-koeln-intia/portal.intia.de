@@ -4,7 +4,7 @@ title: Sponsors Page
 subtitle: An example sponsors page
 sponsors: example_sponsors
 show_sidebar: false
-permalink: /sponsors
+permalink: /sponsors/
 ---
 
 ## Sponsor link in navbar

@@ -5,7 +5,7 @@ description: This is a page with no hero
 hide_hero: true
 show_sidebar: false
 menubar: example_menu
-permalink: /page-without-hero
+permalink: /page-without-hero/
 ---
 
 # Page Without Hero

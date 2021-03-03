@@ -5,7 +5,7 @@ subtitle: An example image gallery page
 description: A simple image gallery page 
 gallery: example_gallery
 show_sidebar: false
-permalink: /gallery
+permalink: /gallery/
 ---
 
 This is a page displaying a simple image gallery.

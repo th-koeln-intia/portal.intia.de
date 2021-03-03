@@ -5,7 +5,7 @@ layout: page
 show_sidebar: false
 tabs: example_tabs
 menubar: example_menu
-permalink: /page-4
+permalink: /page-4/
 ---
 
 ## Displaying tabs

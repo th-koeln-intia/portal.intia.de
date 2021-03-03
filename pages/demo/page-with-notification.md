@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Page With Notifications
-permalink: /page-with-notification
+permalink: /page-with-notification/
 ---
 
 This page shows how you can add [Bulma notifications](https://bulma.io/documentation/elements/notification/).

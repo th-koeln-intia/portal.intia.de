@@ -13,7 +13,6 @@ plugins:
   - jekyll-seo-tag
   - kramdown-parser-gfm
   - jekyll-relative-links
-permalink: pretty
 github: [metadata]
 sass:
   style: compressed

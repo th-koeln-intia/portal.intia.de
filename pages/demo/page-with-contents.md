@@ -6,7 +6,7 @@ toc: true
 #toc_title: Custom Title
 menubar: example_menu
 show_sidebar: false
-permalink: /page-with-contents
+permalink: /page-with-contents/
 ---
 
 ## Introduction

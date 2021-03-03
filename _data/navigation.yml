@@ -1,7 +1,5 @@
 - name: Stories
   link: /stories/
-- name: Test
-  link: /test/
 - name: Demos
   link: /#
   dropdown:

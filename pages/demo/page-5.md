@@ -5,7 +5,7 @@ layout: page
 show_sidebar: false
 menubar: example_menu
 hide_footer: true
-permalink: /page-5
+permalink: /page-5/
 ---
 
 ## Hiding the footer
