@@ -13,6 +13,8 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - kramdown-parser-gfm
+  - jekyll-relative-links
+github: [metadata]
 sass:
   style: compressed
 
