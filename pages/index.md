@@ -4,9 +4,6 @@ subtitle: some subtitle
 permalink: /
 callouts: target-audience-callouts
 ---
-# Test
-[Stories](/stories/)
-[Products](/products/)
 # Herzlich Willkommen bei INTIA
 INTIA ist ein von der TH Köln koordiniertes Projekt, in dem der Forschungsschwerpunkt Digitale Technologien und Soziale Dienste (DITES) mit seinen Bereichen Soziale Arbeit Medien + Bildung (Prof. Dr. Isabel Zorn), Informatik und Soziotechnik (Prof. Dr. Stefan Bente und Prof. Dr. Christian Kohls) und Service-Design & Co-Creation (Prof. Birgit Mager) mit Einrichtungen der Behinderten- und Erziehungshilfe (Diakonie Michaelshoven; Evangelische Jugendhilfe Bonn, intra Bonn) sowie der Fachstelle Jugendmedienkultur (FJMK) kooperieren. Das Projekt hat am 1. Mai 2019 begonnen und hat eine Dauer von 36 Monaten, plus weitere 12 Monate für eine Promotion.
 
