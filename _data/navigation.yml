@@ -1,10 +1,10 @@
 - name: Stories
   link: /stories/
+- name: Products
+  link: /products/
 - name: Demos
   link: /#
   dropdown:
-    - name: Products
-      link: /products/
     - name: Showcase
       link: /showcase/
     - name: Page With Sidebar
