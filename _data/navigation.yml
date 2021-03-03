@@ -1,12 +1,20 @@
 - name: Innovationskoffer
   link: /innovation/
   dropdown:
+    - name: Koffer
+      link: /kit/
     - name: Technikblöcke
       link: /buildingblocks/
+    - name: Prototypen
+      link: /prototypes/
 - name: Methods
   link: /methods/
 - name: Stories
   link: /stories/
+- name: Kontakt
+  link: /contact/
+- name: Über uns
+  link: /about/
 - name: Demos
   link: /#
   dropdown:
