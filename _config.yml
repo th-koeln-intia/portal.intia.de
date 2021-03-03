@@ -3,7 +3,7 @@ email: intia@th-koeln.de
 description: >- # this means to ignore newlines until "baseurl:"
   A plattform for methods, techniques, toolkits and pattern for participative development in a social context.
 baseurl: ""
-url: "https://portal.intia.de"
+url: ""
 theme: null
 # Build settings
 plugins:
@@ -13,6 +13,7 @@ plugins:
   - jekyll-seo-tag
   - kramdown-parser-gfm
   - jekyll-relative-links
+permalink: pretty
 github: [metadata]
 sass:
   style: compressed
@@ -33,7 +34,7 @@ defaults:
   -
     scope:
       type: pages
-      path: _pages
+      path: pages
     values:
       is_post: false
       layout: page
