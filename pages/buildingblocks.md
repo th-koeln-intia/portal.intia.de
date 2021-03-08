@@ -1,10 +1,8 @@
 ---
 title: Building Blocks
 subtitle: Die existierenden Technikblöcke
-layout: product-category
+layout: building-blocks
 show_sidebar: false
-sort: price
+sort: title
 permalink: /buildingblocks/
 ---
-
-Dies ist eine Übersicht aller Technikblöcke

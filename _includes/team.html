@@ -6,9 +6,6 @@
             <p class="title is-3 has-text-centered">
                 <span>{{ tier.tier_name }}</span>
             </p>
-            <p class="subtitle has-text-centered">
-                <span class="icon is-large gh-sponsor"><i class="fas fa-heart fa-2x"></i></span>
-            </p>
             <div class="columns is-centered">
                 <div class="column is-6 content has-text-centered">
                     <p>{{ tier.description | markdownify }}</p>
@@ -16,15 +13,33 @@
             </div>
 
             <div class="columns is-multiline is-centered">
-                {% for sponsor in tier.sponsors %}
+                {% for persons in tier.persons %}
                 <div class="column {% if tier.size == 'large' %} is-4-desktop is-6-tablet {% else %} is-3-desktop is-4-tablet {% endif %}">
                     <div class="box has-text-centered">
-                        <p class="title {% if tier.size == 'large' %} is-4 {% elsif tier.size == 'small' %} is-6 {% else %} is-5 {% endif %}">
-                            {{ sponsor.name }}
+                        {% if persons.role %}
+                        <p class="subtitle is-6"> 
+                            <p class="is-4">
+                                {{ persons.role }}
+                            </p>           
                         </p>
+                        {% else %}
+                        &nbsp;  
+                        {% endif %}
+                        <p class="title {% if tier.size == 'large' %} is-4 {% elsif tier.size == 'small' %} is-6 {% else %} is-5 {% endif %}">
+                            {{ persons.name }}
+                        </p>
+                        {% if persons.institute %}
+                        <p class="subtitle is-6"> 
+                            <p class="is-4">
+                                {{ persons.institute }}
+                            </p>           
+                        </p>
+                        {% else %}
+                        &nbsp;  
+                        {% endif %}
                         <p class="subtitle is-6">
-                            {% if sponsor.profile %}
-                            <a href="{{ sponsor.profile }}" class="is-link is-small">View Profile</a>
+                            {% if persons.profile %}
+                            <a href="{{ persons.profile }}" class="is-link is-small">Webseite</a>
                             {% else %}
                             &nbsp;
                             {% endif %}

@@ -22,10 +22,3 @@ layout: default
 {% if site.disqus.shortname %}
   {% include disqus.html %}
 {% endif %}
-
-{% assign authorData = site.data.intia-members[page.author] %}
-Author:
-<div class="author-bio">
-    <div class="author-name">{{ authorData.name }}</div>
-    <p class="domain">{{ authorData.domain }}</p>
-</div>

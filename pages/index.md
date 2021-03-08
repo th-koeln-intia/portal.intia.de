@@ -1,6 +1,6 @@
 ---
-title: INTIA Starting Page
-subtitle: some subtitle
+title: INTIA
+subtitle: Meine Idee. Meine Lösung.
 permalink: /
 callouts: target-audience-callouts
 ---
