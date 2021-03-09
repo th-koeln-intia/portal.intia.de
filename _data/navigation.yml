@@ -1,16 +1,29 @@
 - name: Über uns
   link: /about/
+  dropdown:
+    - name: Mission
+      link: /about/
+    - name: Team
+      link: /team/
+
 - name: Innovationskoffer
   link: /innovation/
   dropdown:
-    - name: Koffer
+    - name: Idee
       link: /innovation/
+    - name: Basic Koffer
+      link: /basic-case/  
+    - name: Maker Koffer
+      link: /maker-case/  
+- name: Tools
+  link: /tools/
+  dropdown:
     - name: Technikblöcke
       link: /buildingblocks/
+    - name: Methods
+      link: /methods/
     - name: Prototypen
       link: /prototypes/
-- name: Methods
-  link: /methods/
 - name: Stories
   link: /stories/
 - name: Kontakt

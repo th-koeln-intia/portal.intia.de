@@ -1,13 +1,14 @@
 ---
 ---
-$blue: #243DD1;
-$yellow: #FFD600;
+$blue: #3621d0;
+$white: #fff;
+$yellow: #ffe719;
 $orange: #FFA105;
 $cyan: #04E0A2;
 $pink: #FF7D87;
 
 $primary: $blue;
-$primary-invert: $yellow;
+$primary-invert: $white;
 
 // Import Main CSS file from theme
 @import "main";

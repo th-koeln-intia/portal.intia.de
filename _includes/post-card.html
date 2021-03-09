@@ -13,6 +13,13 @@
             {% if post.image %}
             <a class="title is-4" href="{{ site.baseurl }}{{ post.url }}">{{ post.title}}</a>
             {% endif %}
+            {% if page.show-post-text %}
+                {% if post.summary %}
+                    {{ post.summary | markdownify }}
+                {% else %}
+                    <p>{{ post.excerpt | truncate: 300 }}</p>
+                {% endif %}
+            {% endif %}
         </div>
         <div class="has-text-centered">
             <a href="{{ site.baseurl }}{{ post.url }}" class="button is-primary">Weiterlesen</a>

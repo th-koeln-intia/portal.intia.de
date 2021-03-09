@@ -27,6 +27,7 @@ defaults:
     values:
       is_post: true
       layout: post
+      hide_hero: false
       image: https://via.placeholder.com/1200x800
       show_sidebar: true
       permalink: /stories/:title/
