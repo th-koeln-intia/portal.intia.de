@@ -1,3 +1,5 @@
+- name: Über uns
+  link: /about/
 - name: Innovationskoffer
   link: /innovation/
   dropdown:
@@ -13,8 +15,6 @@
   link: /stories/
 - name: Kontakt
   link: /contact/
-- name: Über uns
-  link: /about/
 - name: Demos
   link: /#
   dropdown:
