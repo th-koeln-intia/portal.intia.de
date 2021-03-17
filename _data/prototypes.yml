@@ -13,7 +13,7 @@ items:
     image: /assets/images/posts/escape-game.jpg
     image_ratio: is-4by3
     link: https://github.com/th-koeln-intia/escape-game
-    link_text: Selbst nachbauen
+    link_text: Selbst nachbauen (GitHub)
     tags: Escape Game,Protoype,IoT
     github: th-koeln-intia/escape-game
   - title: Photo probe
@@ -23,5 +23,5 @@ items:
     image: /assets/images/posts/photoprobe.jpg
     image_ratio: is-4by3
     link: https://github.com/th-koeln-intia
-    link_text: Anschauen
+    link_text: Anschauen (GitHub)
     tags: Probes,User Research

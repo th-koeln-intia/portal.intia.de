@@ -1,3 +1,5 @@
+- name: Alternative Startseite
+  link: /test/
 - name: Über uns
   link: /about/
   dropdown:
@@ -18,6 +20,8 @@
 - name: Tools
   link: /tools/
   dropdown:
+    - name: Unsere Produkte und Werkzeuge
+      link: /tools/
     - name: Technikblöcke
       link: /buildingblocks/
     - name: Methods

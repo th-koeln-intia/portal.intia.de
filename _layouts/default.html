@@ -18,6 +18,7 @@
     {% unless page.hide_hero %}
         {% include hero.html %}
     {% endunless %}
+    {% include select-audience.html %}
     {% include callouts.html %}
     <section class="section">
         <div class="container">
@@ -25,7 +26,7 @@
                 {% if page.menubar_toc %}
                 <div class="column is-4-desktop is-4-tablet">
                     {% assign contentsTitle = page.toc_title | default: 'Contents' %}
-                    {% include toc.html html=content class='menu-list' h_min=2 h_max=3 contents_title=contentsTitle %}
+                    {% include toc.html html=content class='menu-list' h_min=1 h_max=3 contents_title=contentsTitle %}
                 </div>
                 {% elsif page.menubar %}
                 <div class="column is-4-desktop is-4-tablet">
