@@ -2,6 +2,7 @@
 title: INTIA
 subtitle: Meine Idee. Meine Lösung.
 permalink: /test/
+show_sidebar: false
 select-audience: ""
 sections:
     intro: |
