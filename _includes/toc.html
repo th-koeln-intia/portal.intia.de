@@ -72,7 +72,7 @@
     {% endif %}
 {% endcapture %}{% assign tocWorkspace = '' %}
 
-<div class="contents">
+<div class="contents sticky">
     <div class="menu">
         <p class="menu-label">{{ include.contents_title }}</p>
         {{ my_toc | markdownify | strip }}
