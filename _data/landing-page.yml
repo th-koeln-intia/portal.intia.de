@@ -1,0 +1,22 @@
+style: landing-page-main-content
+sections:
+  - title: Unsere Mission
+    text: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis massa sed elementum tempus egestas sed sed risus pretium.
+    image: https://via.placeholder.com/1200x800
+    link: /about/
+  - title: Innovationskoffer
+    text: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit sed vulputate mi sit. Imperdiet dui accumsan sit amet.
+    image: https://via.placeholder.com/1200x800
+    link: /innovation/
+  - title: Tools
+    text: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ipsum consequat nisl vel pretium lectus quam id leo in. Quam nulla porttitor massa id neque aliquam. At ultrices mi tempus imperdiet nulla malesuada pellentesque. 
+    image: https://via.placeholder.com/1200x800
+    link: /tools/
+  - title: Stories
+    text: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu augue ut lectus arcu bibendum. Semper feugiat nibh sed pulvinar proin gravida hendrerit.
+    image: https://via.placeholder.com/1200x800
+    link: /stories/

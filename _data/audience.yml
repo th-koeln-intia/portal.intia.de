@@ -1,30 +1,21 @@
 
-- title: Praktiker*in der Sozialen Arbeit
-  icon: fa-user-nurse
-  image: /assets/images/posts/escape-game.jpg
+- title: develop
+  image: https://via.placeholder.com/1200x900
   description: >
     ...Prototypen entwickeln
-  button_text: Hier entlag!
   where_to: /innovation/
-- title: Teilnehmender
-  icon: fa-user
-  image: /assets/images/posts/escape-game.jpg
+- title: methods
+  image: https://via.placeholder.com/1200x900
   description: >
     ...Methoden für partizipative Arbeit finden
-  button_text: Hier entlag!
-  where_to: /innovation/
-- title: Macher
-  subtitle: Maker*innen, Designer*innen und Entwickler*innen
-  icon: fa-user-astronaut
-  image: /assets/images/posts/escape-game.jpg
+  where_to: /methods/
+- title: improve
+  image: https://via.placeholder.com/1200x900
   description: >
-    ...Einen Technikentwicklungsprozess starten (Koffer)
-  button_text: Hier entlag!
-  where_to: /innovation/
-- title: Wissenschaftler*in
-  subtitle: Ich möchte gerne über die Wissenschaftlichen Erkenntnisse reden
-  icon: fa-atom
+    ...dabei helfen neue Werkzeuge und Methoden beizusteuern und existierende zu verbessern
+  where_to: /tools/
+- title: science
+  image: https://via.placeholder.com/1200x900
   description: >
-    Ich möchte dabei helfen neue Werkzeuge und Methoden beizusteuern und existierende zu verbessern
-  button_text: Hier entlag!
-  where_to: /innovation/
+    ...etwas zum wissenschaftlichen Diskurs beitragen
+  where_to: /stories/

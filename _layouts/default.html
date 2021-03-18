@@ -20,8 +20,13 @@
     {% endunless %}
     {% include select-audience.html %}
     {% include callouts.html %}
-    <section class="section">
+    <section class="section {% if page.style %} {{ page.style }} {% endif %}">
         <div class="container">
+            <div class="columns">
+                <div class="column is-full">
+                    {% include abstract.html %}
+                </div>
+            </div>
             <div class="columns is-6 is-variable">
                 {% if page.menubar_toc %}
                 <div class="column is-4-desktop is-4-tablet">
@@ -38,6 +43,7 @@
                     {% include showcase.html %}
                     {% include sponsors.html %}
                     {% include gallery.html %}
+                    {% include left-right-blocks.html %}
                     {{ content }}
                     {% include team.html %}
                 </div>
@@ -49,6 +55,11 @@
             </div>
         </div>
     </section>
+    {% if page.latest_posts_below %}
+    <section class="section">
+        {% include latest-posts.html %}
+    </section>
+    {% endif %}
     {% unless page.hide_footer %}
         {% include footer.html %}
     {% endunless %}

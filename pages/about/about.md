@@ -6,16 +6,9 @@ show_sidebar: false
 toc_title: Themen
 menubar_toc: true
 permalink: /about/
+abstract: |
+  Einrichtungen und Träger der Sozialen Arbeit erkennen zunehmend, wie gesellschaftlich relevant die mangelnde digitale Teilhabe ihrer Klient\*innen ist. Es mangelt ihnen jedoch an konkreten individuellen Lösungen, die für Teilhabe und selbstbestimmte Alltagsbewältigung ihrer Klient\*innen hilfreich sind, Risiken reduzieren, deren Implementierung und Betrieb keinen hohen Aufwand verursacht, und die unproblematisch hinsichtlich von Haftungs- oder Datenschutzfragen einsetzbar sind. Gesucht werden innovative Ansätze, um Klient*innen der Sozialen Arbeit an Nutzungen digitaler Tools heranzuführen.
 ---
-<div class="card">
-  <div class="card-content about-info">
-    <div class="content">
-    <strong>
-Einrichtungen und Träger der Sozialen Arbeit erkennen zunehmend, wie gesellschaftlich relevant die mangelnde digitale Teilhabe ihrer Klient\*innen ist. Es mangelt ihnen jedoch an konkreten individuellen Lösungen, die für Teilhabe und selbstbestimmte Alltagsbewältigung ihrer Klient\*innen hilfreich sind, Risiken reduzieren, deren Implementierung und Betrieb keinen hohen Aufwand verursacht, und die unproblematisch hinsichtlich von Haftungs- oder Datenschutzfragen einsetzbar sind. Gesucht werden innovative Ansätze, um Klient*innen der Sozialen Arbeit an Nutzungen digitaler Tools heranzuführen.</strong>
-    </div>
-  </div>
-</div>
-
 # Unsere Mission
 Die betreffenden Klient\*innen und Fachkräfte nehmen als Expert\*innen ihrer selbst an inklusiven Technologieentwicklungsprozessen teil, unterstützt durch Forschende und Studierende aus Informatik, Design und Sozialer Arbeit. Die unterschiedlichen Zielgruppen sollen in die Lage versetzt werden, technologische Lösungen selbst zu erfinden, zu gestalten und anzupassen, und auf diese Weise Selbstwirksamkeit im Kontext der Nutzung digitaler Tools erleben.
 
