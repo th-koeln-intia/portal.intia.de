@@ -1,5 +1,6 @@
-//
+// 
 
+// Custom functions
 function changeFontSize() {
   var default_layout=document.getElementById("default-layout");
   if(default_layout.style.fontSize=="150%"){

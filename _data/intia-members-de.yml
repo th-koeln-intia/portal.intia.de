@@ -1,50 +1,47 @@
 - tier_name: Professoren
   persons:
     - name: Isabel Zorn
-      short_name: IZ
       institute: Institut für Medienforschung und Medienpadägogik (IMM)
       role: Projektleitung
+      description: |
+        trägt national und international zur inklusiven Medienbildung sowie zu Digitalisierungsdiskursen in Bildung und der Sozialen Arbeit bei.
       profile: https://www.th-koeln.de/personen/isabel.zorn/
     - name: Stefan Bente
-      short_name: SB
       institute: Cologne Institute for Digital Ecosystems (CIDE)
+      description: |
+        forscht zu verteilten Architekturen im Internet der Dinge, die für einen nachhaltigen Bestand wiederum auch dezentrale Governance-Ansätze nötig machen.
       profile: https://www.th-koeln.de/personen/stefan.bente/
     - name: Christian Kohls
-      short_name: CKo
       institute: Cologne Institute for Digital Ecosystems (CIDE)
+      description: |
+        gestaltet hybride Lernräume zur prototypischen Entwicklung neuer Kreativitätswerkzeuge und nutzt sie als Entwicklungswerkstatt für das virtuelle Alltagslabor.
       profile: https://www.th-koeln.de/personen/christian.kohls/
     - name: Birgit Mager
-      short_name: BM
       institute: Köln international School of Design (KISD)
+      description: |
+        nutzt Co-Creative Service Design Methoden aus Projekten mit Obdachlosen und mit drogenabhängigen Straßenprostituierten.
       profile: https://www.th-koeln.de/personen/birgit.mager/
 - tier_name: Wissenschaftliche Mitarbeiter
   persons:
     - name: Janina Rösch
-      short_name: JR
       institute: Köln international School of Design (KISD)
       profile: https://www.th-koeln.de/personen/janina.roesch/
     - name: Hanna Thielmann
-      short_name: HT
       institute: Institut für Medienforschung und Medienpadägogik (IMM)
       profile: https://www.th-koeln.de/personen/hanna.thielmann/
     - name: Caroline Kortekaas
-      short_name: CK
       institute: Institut für Medienforschung und Medienpadägogik (IMM)
       profile: https://www.th-koeln.de/personen/caroline.kortekaas/
     - name: Carola Janda
-      short_name: CJ
       institute: Institut für Medienforschung und Medienpadägogik (IMM)
       profile: https://www.th-koeln.de/personen/carola.janda/
     - name: Jan Seidler
-      short_name: JS
       institute: Cologne Institute for Digital Ecosystems (CIDE)
       profile: https://www.th-koeln.de/personen/jan.seidler/
     - name: Dennis Wilk
-      short_name: DW
       institute: Cologne Institute for Digital Ecosystems (CIDE)
       profile: https://www.th-koeln.de/personen/dennis.wilk/
     - name: Marc Schmidt
-      short_name: MS
       institute: Cologne Institute for Digital Ecosystems (CIDE)
       profile: https://www.th-koeln.de/personen/marc.schmidt1/
 - tier_name: Projektpartner

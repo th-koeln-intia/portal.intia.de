@@ -1,7 +1,6 @@
 ---
 title: Unsere Mission
 layout: page
-team: intia-members-de
 show_sidebar: false
 toc_title: Themen
 menubar_toc: true
@@ -48,3 +47,6 @@ INTIA ist ein von der TH Köln koordiniertes Projekt, in dem der Forschungsschwe
 
 ## Wer sind wir?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh. Neque gravida in fermentum et sollicitudin ac orci phasellus. Amet purus gravida quis blandit turpis cursus. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Et odio pellentesque diam volutpat. Vitae elementum curabitur vitae nunc sed velit dignissim sodales. Malesuada nunc vel risus commodo viverra maecenas accumsan lacus. Proin fermentum leo vel orci porta non pulvinar neque. Odio ut enim blandit volutpat maecenas volutpat blandit aliquam. Non diam phasellus vestibulum lorem sed.
+
+<a href="/team/" class="button is-primary">
+                            Mehr über die Personen hinter dem Projekt erfahren</a>

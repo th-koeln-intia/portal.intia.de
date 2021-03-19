@@ -12,10 +12,13 @@ $modal-content-width: 800px;
 @import "../node_modules/bulma/bulma.sass";
 $hero-darken: $dark !default;
 
+//Specific styles
 @import "layout";
 @import "syntax";
 @import "showcase";
 @import "about";
 @import "stories";
 @import "landing_page";
+
+// Extensions
 @import "../node_modules/bulma-block-list/src/block-list.scss";
