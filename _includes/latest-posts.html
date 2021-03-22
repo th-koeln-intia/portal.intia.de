@@ -1,4 +1,4 @@
-<p class="title is-4">Aktuelle Stories</p>
+<p class="title {% if page.latest_posts_below %} is-2 {% else %} is-4 {% endif %}">Aktuelle Stories</p>
 
 <div class="columns is-multiline">
     {% for post in site.posts limit:3 %}

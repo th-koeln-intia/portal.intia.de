@@ -18,15 +18,15 @@
     {% unless page.hide_hero %}
         {% include hero.html %}
     {% endunless %}
-    {% include select-audience.html %}
     {% include callouts.html %}
+    <section class="section">
+        <div class="container">
+            {% include abstract.html %}
+            {% include select-audience.html %}
+        </div>
+    </section>
     <section class="section {% if page.style %} {{ page.style }} {% endif %}">
         <div class="container">
-            <div class="columns">
-                <div class="column is-full">
-                    {% include abstract.html %}
-                </div>
-            </div>
             <div class="columns is-6 is-variable">
                 {% if page.menubar_toc %}
                 <div class="column is-4-desktop is-4-tablet">
