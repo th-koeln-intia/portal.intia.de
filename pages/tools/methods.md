@@ -20,7 +20,6 @@ radar_visualization({
     grid: "#bbb",
     inactive: "#ddd"
   },
-  title: "INTIA Method Radar",
   quadrants: [
     { name: "Deliver" }, //0
     { name: "Develop" }, //1

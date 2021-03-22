@@ -22,10 +22,12 @@
       link: /tools/
     - name: Technikblöcke
       link: /buildingblocks/
-    - name: Methods
+    - name: Methoden
       link: /methods/
     - name: Prototypen
       link: /prototypes/
+    - name: Glossar
+      link: /glossary/
 - name: Stories
   link: /stories/
 - name: Kontakt

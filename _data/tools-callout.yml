@@ -1,31 +1,27 @@
 style: is-light
 height: is-medium
 items:
-  - title: Example callout 1
-    subtitle: Example subtitle 1
-    icon: fa-space-shuttle
+  - title: Technikblöcke
+    icon: fa-shapes
     description: >
-      The example description text goes here and can be multiple lines.
-
-      For example, such as this. 
-    call_to_action_name: Call to action 1
-    call_to_action_link: /page-1/
-  - title: Example callout 2
-    subtitle: Example subtitle 2
-    icon: fa-wrench
+      Eine Übersicht aller von INTIA entwickelten und genutzten Bausteine mit näheren Informationen wo diese erhältlich sind.
+    call_to_action_name: Zu den Technikblöcken
+    call_to_action_link: /buildingblocks/
+  - title: Methoden
+    icon: fa-stethoscope
     description: >
-      The example description text goes here and can be multiple lines.
-
-      For example, such as this.
-    call_to_action_name: Call to action 2
-    call_to_action_link: /page-2/
-  - title: Example callout 3
-    subtitle: Example subtitle 3
-    icon: fa-github
-    icon_brand: true
+      Das Methodenradar gibt einen einfachen Überblick interessanter partizipativer Methoden.
+    call_to_action_name: Zum den Methoden
+    call_to_action_link: /methods/
+  - title: Prototypen
+    icon: fa-box-open
     description: >
-      The example description text goes here and can be multiple lines.
-
-      For example, such as this.
-    call_to_action_name: Call to action 3
-    call_to_action_link: https://www.csrhymes.com/bulma-clean-theme/page-3/
+      Alle mithilfe von INTIA entwickelten Prototypen.
+    call_to_action_name: Zu den Prototypen
+    call_to_action_link: /prototypes/
+  - title: Glossar
+    icon: fa-book
+    description: >
+      Eine Übersicht wichtiger und relevanter Begriffe die hilfreich sind.
+    call_to_action_name: Zum Glossar
+    call_to_action_link: /glossary/
