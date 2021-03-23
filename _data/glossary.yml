@@ -1,0 +1,16 @@
+entries:
+  - name: Innovations-Koffer
+    old_names:
+      - Laborkoffer
+    description: |
+      Eine Ansammlung von Material, in einem mobilen Format, zur Unterstützung der Bedarfserhebung und Ideenfindung.
+  - name: Prototyp
+    synonyms:
+      - Testmodell
+      - Versuchsmodell 
+      - Muster
+      - Vorab-Exemplar
+      - Entwurfsmuster
+      - Proof of Concept
+    description: |
+      Erstes vorläufiges Modell oder Konzept eines späteren Produkts.

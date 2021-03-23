@@ -19,12 +19,14 @@
         {% include hero.html %}
     {% endunless %}
     {% include callouts.html %}
+    {% if page.abstract or page.select-audience %} 
     <section class="section">
         <div class="container">
             {% include abstract.html %}
             {% include select-audience.html %}
         </div>
     </section>
+    {% endif %}
     <section class="section {% if page.style %} {{ page.style }} {% endif %}">
         <div class="container">
             <div class="columns is-6 is-variable">
