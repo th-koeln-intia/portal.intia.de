@@ -49,12 +49,8 @@ footer_menu: footer
 collections:
   building_blocks: 
     output: true
-    layout: building-blocks
     image: https://via.placeholder.com/800x600
     show_sidebar: false
-  products:  ## To be removed when not needed anymore
+  methods:
     output: true
-    layout: product
-    image: https://via.placeholder.com/800x600
-    show_sidebar: false
 

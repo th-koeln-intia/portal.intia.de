@@ -2,7 +2,7 @@
 title: Mobile Hub
 description: Zentraler Block der die Kommunikation zwischen allen Blöcken verwaltet und steuert
 product_code: MB1
-layout: product
+layout: building-block
 image: https://i2.wp.com/marcel-jan.eu/datablog/wp-content/uploads/2019/11/IMG_0907a.jpg?fit=1200%2C836&ssl=1
 price: 50€
 features:

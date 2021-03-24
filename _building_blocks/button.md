@@ -2,7 +2,7 @@
 title: Button
 description: Ein Block, der einen Tastendruck erkennt
 product_code: B1
-layout: product
+layout: building-block
 image: /assets/buildingblocks/button.png
 price: 10€
 features:
