@@ -51,7 +51,7 @@ radar_visualization({
         ring: 5,
         label: "Hospitation",
         active: true,
-        link: "methods/hospitation.html",
+        link: "hospitation",
         moved: 0,
         color_code: "#93c47d"
       },
@@ -60,7 +60,7 @@ radar_visualization({
         ring: 3,
         label: "Workshops",
         active: true,
-        link: "404.html",
+        link: "workshop",
         moved: 10,
         color_code: "#93c47d"
       },
@@ -69,7 +69,7 @@ radar_visualization({
         ring: 4,
         label: "Escape Game",
         active: true,
-        link: "404.html",
+        link: "escape-game",
         moved: 0,
         color_code: "#93d2c2"
       },
@@ -79,7 +79,7 @@ radar_visualization({
         ring: 5,
         label: "Check-In",
         active: true,
-        link:  "404.html",
+        link:  "check-in",
         moved: 0,
         color_code: "#93c47d"
       },
@@ -88,7 +88,7 @@ radar_visualization({
         ring: 5,
         label: "Warm-Ups",
         active: true,
-        link:  "404.html",
+        link:  "warm-ups",
         moved: 0,
         color_code: "#93c47d"
       },
@@ -97,7 +97,7 @@ radar_visualization({
         ring: 3,
         label: "Smiley Feedback",
         active: true,
-        link:  "404.html",
+        link:  "smiley-feedback",
         moved: 0,
         color_code: "#93c47d"
       },
@@ -106,7 +106,7 @@ radar_visualization({
         ring: 3,
         label: "Erfindungsmemory",
         active: true,
-        link:  "404.html",
+        link:  "memory",
         moved: 0,
         color_code: "#93c47d"
       },
@@ -115,7 +115,7 @@ radar_visualization({
         ring: 3,
         label: "Erfindungsskala",
         active: true,
-        link:  "404.html",
+        link:  "inventor-scale",
         moved: 0,
         color_code: "#93c47d"
       },
@@ -124,7 +124,7 @@ radar_visualization({
         ring: 4,
         label: "Interviews",
         active: true,
-        link:  "404.html",
+        link:  "interviews",
         moved: 0,
         color_code: "#93c47d"
       },
@@ -133,7 +133,7 @@ radar_visualization({
         ring: 4,
         label: "„Stimmt oder Stimmt Nicht“",
         active: true,
-        link:  "404.html",
+        link:  "true-or-not",
         moved: 0,
         color_code: "#93c47d"
       },
@@ -142,7 +142,7 @@ radar_visualization({
         ring: 3,
         label: "Der Superheld",
         active: true,
-        link:  "404.html",
+        link:  "super-hero",
         moved: 0,
         color_code: "#93c47d"
       },
@@ -151,7 +151,7 @@ radar_visualization({
         ring: 2,
         label: "Paper Function Mapping",
         active: true,
-        link:  "404.html",
+        link:  "pfm",
         moved: 0,
         color_code: "#93d2c2"
       },
@@ -160,7 +160,7 @@ radar_visualization({
         ring: 2,
         label: "Behaviour-Driven Prototyping",
         active: true,
-        link:  "404.html",
+        link:  "bdp",
         moved: 0,
         color_code: "#93d2c2"
       },
@@ -169,7 +169,7 @@ radar_visualization({
         ring: 4,
         label: "Probe Kit",
         active: true,
-        link: "404.html",
+        link: "probe-kit",
         moved: 0,
         color_code: "#93d2c2"
       },
