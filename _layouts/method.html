@@ -3,7 +3,6 @@ layout: default
 ---
 
 <div class="columns is-multiline">
-
     <div class="column is-6">
         <figure class="image is-4by3">
             <img src="{{ page.image }}" />
@@ -11,10 +10,17 @@ layout: default
     </div>
 
     <div class="column is-6">
-        <p class="title is-3">{{ page.title }}</p>
+        <div class="columns is-multiline">
+            <div class="column">
+                <p class="title is-3">{{ page.title }}</p>
+            </div>
+            <div class="column is-hidden-print">
+                <p class="button is-primary is-light has-text-right" onclick="window.print()">Drucken</p>
+            </div>
+        </div>
         <p class="subtitle is-3">{{ page.subtitle }}</p>
         {% if page.rating %}
-            {% include rating.html rating=page.rating %}
+            {% include rating.html rating=page.rating style="is-hidden-print has-text-centered" %}
         {% endif %}
         <div class="content">
            {{ page.summary }}

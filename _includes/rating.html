@@ -1,5 +1,5 @@
 
-    <div class="content {% if include.align %} {{ include.align }} {% else %} has-text-centered {% endif %}">
+    <div class="content {% if include.style %} {{ include.style }} {% else %} has-text-centered {% endif %}">
         {% for num in (1..include.rating) %}
         <span class="icon">
             <i class="fas fa-star"></i>
