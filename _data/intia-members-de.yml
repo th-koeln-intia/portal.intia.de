@@ -1,39 +1,39 @@
-- tier_name: Professoren
+- tier_name: Professorinen und Professoren
   persons:
-    - name: Isabel Zorn
-      institute: Institut für Medienforschung und Medienpadägogik (IMM)
+    - name: Prof. Dr. Isabel Zorn
+      institute: Institut für Medienforschung und Medienpädagogik (IMM)
       role: Projektleitung
       description: |
         trägt national und international zur inklusiven Medienbildung sowie zu Digitalisierungsdiskursen in Bildung und der Sozialen Arbeit bei.
       profile: https://www.th-koeln.de/personen/isabel.zorn/
-    - name: Stefan Bente
+    - name: Prof. Dr. Stefan Bente
       institute: Cologne Institute for Digital Ecosystems (CIDE)
       description: |
         forscht zu verteilten Architekturen im Internet der Dinge, die für einen nachhaltigen Bestand wiederum auch dezentrale Governance-Ansätze nötig machen.
       profile: https://www.th-koeln.de/personen/stefan.bente/
-    - name: Christian Kohls
+    - name: Prof. Dr. Christian Kohls
       institute: Cologne Institute for Digital Ecosystems (CIDE)
       description: |
         gestaltet hybride Lernräume zur prototypischen Entwicklung neuer Kreativitätswerkzeuge und nutzt sie als Entwicklungswerkstatt für das virtuelle Alltagslabor.
       profile: https://www.th-koeln.de/personen/christian.kohls/
-    - name: Birgit Mager
-      institute: Köln international School of Design (KISD)
+    - name: Prof. Birgit Mager
+      institute: Köln International School of Design (KISD)
       description: |
         nutzt Co-Creative Service Design Methoden aus Projekten mit Obdachlosen und mit drogenabhängigen Straßenprostituierten.
       profile: https://www.th-koeln.de/personen/birgit.mager/
 - tier_name: Wissenschaftliche Mitarbeiter
   persons:
     - name: Janina Rösch
-      institute: Köln international School of Design (KISD)
+      institute: Köln International School of Design (KISD)
       profile: https://www.th-koeln.de/personen/janina.roesch/
     - name: Hanna Thielmann
-      institute: Institut für Medienforschung und Medienpadägogik (IMM)
+      institute: Institut für Medienforschung und Medienpädagogik (IMM)
       profile: https://www.th-koeln.de/personen/hanna.thielmann/
     - name: Caroline Kortekaas
-      institute: Institut für Medienforschung und Medienpadägogik (IMM)
+      institute: Institut für Medienforschung und Medienpädagogik (IMM)
       profile: https://www.th-koeln.de/personen/caroline.kortekaas/
     - name: Carola Janda
-      institute: Institut für Medienforschung und Medienpadägogik (IMM)
+      institute: Institut für Medienforschung und Medienpädagogik (IMM)
       profile: https://www.th-koeln.de/personen/carola.janda/
     - name: Jan Seidler
       institute: Cologne Institute for Digital Ecosystems (CIDE)
@@ -54,5 +54,5 @@
       profile: https://www.godesheim.de/
     - name: Fachstelle Jugendmedienkultur NRW (FJMK)
       profile: https://www.jugendmedienkultur-nrw.de/
-    - name: intra bonn gGmbH
-      profile: https://www.intra-ggmbh.de/
+      
+#Logoleiste einfügen
