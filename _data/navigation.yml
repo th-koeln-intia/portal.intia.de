@@ -17,7 +17,7 @@
       link: /maker-case/  
     - name: Innovations-Labor
       link: // 
-- name: Tools
+- name: Tools - deutscher Begriff
   link: /tools/
   dropdown:
     - name: Produkte und Werkzeuge
@@ -30,7 +30,7 @@
       link: /prototypes/
     - name: Glossar
       link: /glossary/
-- name: Stories
+- name: Geschichten
   link: /stories/
 - name: Kontakt
   link: /contact/
