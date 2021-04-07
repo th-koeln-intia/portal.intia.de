@@ -55,4 +55,4 @@
     - name: Fachstelle Jugendmedienkultur NRW (FJMK)
       profile: https://www.jugendmedienkultur-nrw.de/
       
-#Logoleiste einfügen
+- tier_name: Logoleiste einfügen - WPKs nur hier, Wmbf in footer(auf alle Seiten) 
