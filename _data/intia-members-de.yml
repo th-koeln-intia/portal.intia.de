@@ -1,4 +1,4 @@
-- tier_name: Professorinen und Professoren
+- tier_name: Professorinnen und Professoren
   persons:
     - name: Prof. Dr. Isabel Zorn
       institute: Institut für Medienforschung und Medienpädagogik (IMM)
@@ -21,32 +21,31 @@
       description: |
         nutzt Co-Creative Service Design Methoden aus Projekten mit Obdachlosen und mit drogenabhängigen Straßenprostituierten.
       profile: https://www.th-koeln.de/personen/birgit.mager/
-- tier_name: Wissenschaftliche Mitarbeiter
+- tier_name: Wissenschaftliche Mitarbeiterinnen und Mitarbeiter
   persons:
-    - name: Janina Rösch
-      institute: Köln International School of Design (KISD)
-      profile: https://www.th-koeln.de/personen/janina.roesch/
-    - name: Hanna Thielmann
+    - name: Carola Janda
       institute: Institut für Medienforschung und Medienpädagogik (IMM)
-      profile: https://www.th-koeln.de/personen/hanna.thielmann/
+      profile: https://www.th-koeln.de/personen/carola.janda/- 
     - name: Caroline Kortekaas
       institute: Institut für Medienforschung und Medienpädagogik (IMM)
       profile: https://www.th-koeln.de/personen/caroline.kortekaas/
-    - name: Carola Janda
-      institute: Institut für Medienforschung und Medienpädagogik (IMM)
-      profile: https://www.th-koeln.de/personen/carola.janda/
-    - name: Jan Seidler
-      institute: Cologne Institute for Digital Ecosystems (CIDE)
-      profile: https://www.th-koeln.de/personen/jan.seidler/
-    - name: Dennis Wilk
-      institute: Cologne Institute for Digital Ecosystems (CIDE)
-      profile: https://www.th-koeln.de/personen/dennis.wilk/
+    - name: Janina Rösch
+      institute: Köln International School of Design (KISD)
+      profile: https://www.th-koeln.de/personen/janina.roesch/
     - name: Marc Schmidt
       institute: Cologne Institute for Digital Ecosystems (CIDE)
       profile: https://www.th-koeln.de/personen/marc.schmidt1/
+    - name: Jan Seidler
+      institute: Cologne Institute for Digital Ecosystems (CIDE)
+      profile: https://www.th-koeln.de/personen/jan.seidler/
+    - name: Hanna Thielmann
+      institute: Institut für Medienforschung und Medienpädagogik (IMM)
+      profile: https://www.th-koeln.de/personen/hanna.thielmann/
+    - name: Dennis Wilk
+      institute: Cologne Institute for Digital Ecosystems (CIDE)
+      profile: https://www.th-koeln.de/personen/dennis.wilk/
 - tier_name: Projektpartner
   description: |-
-    Die Projektpartner die uns tatkräftig bei unserer Arbeit unterstützt haben
   persons:
     - name: Diakonie Michaelshoven, Kinder- und Familienhilfen Michaelshoven gGmbH
       profile: https://www.diakonie-michaelshoven.de/
