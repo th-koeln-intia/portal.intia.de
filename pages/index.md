@@ -1,5 +1,5 @@
 ---
-title: INTIA
+title: Start
 subtitle: Meine Idee. Meine Lösung.
 permalink: /
 show_sidebar: false
