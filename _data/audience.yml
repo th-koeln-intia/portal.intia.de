@@ -12,10 +12,11 @@
 - title: improve
   image: https://via.placeholder.com/1200x900
   description: >
-    ...dabei helfen neue Werkzeuge und Methoden beizusteuern und existierende zu verbessern
+    ...neue Werkzeuge und Methoden beisteuern und existierende verbessern
   where_to: /tools/
 - title: science
   image: https://via.placeholder.com/1200x900
   description: >
-    ...etwas zum wissenschaftlichen Diskurs beitragen
+    ...etwas zum wissenschaftlichen Diskurs beitragen <- auf der Seite "Stories" kann bisher nur gelesen werden. Nichts beigesteuert.
+    -> ...etwas über den wissenschafltichen Diskurs erfahrten
   where_to: /stories/
