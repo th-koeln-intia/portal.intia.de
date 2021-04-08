@@ -32,7 +32,9 @@
       link: /prototypes/
     - name: Glossar
       link: /glossary/
-- name: Geschichten
+- name: Stories
   link: /stories/
 - name: Kontakt
   link: /contact/
+- name: Fachartikel
+  link: /science/
