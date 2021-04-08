@@ -1,5 +1,5 @@
 ---
-title: Die Idee / Der Ansatz / Der Grund / Warum INTIA?
+title: Der Hintergrund von INTIA
 layout: page
 show_sidebar: false
 toc_title: Themen
