@@ -1,7 +1,7 @@
 - name: Über INTIA
   link: /about/
   dropdown:
-    - name: Die Idee / Der Ansatz / Der Grund / Warum INTIA?
+    - name: Der Hintergrund von INTIA
       link: /about/
     - name: Das Starter-Team
       link: /team/
