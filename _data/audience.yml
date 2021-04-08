@@ -3,21 +3,30 @@
   image: https://via.placeholder.com/1200x900
   description: >
     ...neue Technik entwickeln
+    
     Hier geht es zum Innovationskoffer. Mit seinem Inhalt können Prototypen (Link zum Glossar) enwickelt werden.
   where_to: /innovation/
 - title: methods
   image: https://via.placeholder.com/1200x900
   description: >
     ...Methoden für partizipative Arbeit finden
+    
+    tbd
   where_to: /methods/
 - title: improve
   image: https://via.placeholder.com/1200x900
   description: >
     ...neue Werkzeuge und Methoden beisteuern und existierende verbessern
+    
+    tbd
   where_to: /tools/
 - title: science
   image: https://via.placeholder.com/1200x900
   description: >
     ...etwas zum wissenschaftlichen Diskurs beitragen <- auf der Seite "Stories" kann bisher nur gelesen werden. Nichts beigesteuert.
+    
+    
     ...etwas über den wissenschafltichen Diskurs erfahrten
+    
+    tbd
   where_to: /stories/
