@@ -18,10 +18,19 @@
     neue Werkzeuge und Methoden beisteuern und existierende verbessern
     tbd
   where_to: /tools/
+- title: stories
+  image: https://via.placeholder.com/1200x900
+  description: >
+    ...etwas über aktuelle Geschichten erfahren
+  where_to: /stories/  
 - title: science
   image: https://via.placeholder.com/1200x900
   description: >
-    ...etwas zum wissenschaftlichen Diskurs beitragen <- auf der Seite "Stories" kann bisher nur gelesen werden. Nichts beigesteuert.<br>
-    ...etwas über den wissenschafltichen Diskurs erfahrten<br>
-    tbd
-  where_to: /stories/
+    ... etwas über das theoretische Fundament erfahren 
+  where_to: //
+- title: science
+  image: https://via.placeholder.com/1200x900
+  description: >
+    ... teil der Community werden!
+    Trage etwas zur Plattform/zur Community bei und schreibe uns Ideen, berichte über eigene Projekte. Egal ob groß oder klein.  
+  where_to: //
