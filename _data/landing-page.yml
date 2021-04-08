@@ -1,22 +1,24 @@
 style: landing-page-main-content
 sections:
-  - title: Die Idee / Der Ansatz / Der Grund / Warum INTIA?
+  - title: Die Idee hinter INTIA
     text: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis massa sed elementum tempus egestas sed sed risus pretium.
+        Warum wurde das Projekt INTIA gestartet, wer steckt dahinter und wer wird gebraucht, um es lebendig wachsen zu lassen?<br>
+        Hier wird alles zum Hintergrund von INTIA und der Vision zur Plattform und Community dargestellt.
     image: https://via.placeholder.com/1200x800
     link: /about/
-  - title: Innovationskoffer
+  - title: Innovations-Koffer
     text: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit sed vulputate mi sit. Imperdiet dui accumsan sit amet.
+        Der oder besser gesagt die Innovations-Koffer sind das Ergebnis der partizipativen Technikentwicklung mit Jugendlichen.<br>
+        Was sie enthalten, wie sie genutzt werden können und wo sie erhätlich sind erfährst du hier.
     image: https://via.placeholder.com/1200x800
     link: /innovation/
   - title: Tools
     text: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ipsum consequat nisl vel pretium lectus quam id leo in. Quam nulla porttitor massa id neque aliquam. At ultrices mi tempus imperdiet nulla malesuada pellentesque. 
+        Alles rund um das partizipative Entwicklen von neuer Technik gibt es hier. Ob Technik, Methoden oder wichtige Begriffe. 
     image: https://via.placeholder.com/1200x800
     link: /tools/
   - title: Stories
     text: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu augue ut lectus arcu bibendum. Semper feugiat nibh sed pulvinar proin gravida hendrerit.
+        Hier erfährst du, was gerade in der Community los ist. 
     image: https://via.placeholder.com/1200x800
     link: /stories/
