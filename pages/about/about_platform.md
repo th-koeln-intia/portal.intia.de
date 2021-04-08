@@ -4,8 +4,8 @@ layout: page
 show_sidebar: false
 toc_title: Themen
 menubar_toc: true
-permalink: /about/
-
+permalink: /about_platform/
+---
 
 # Was steckt hinter der Plattform und der Community?
 
