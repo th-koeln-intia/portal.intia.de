@@ -51,3 +51,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  
 <a href="/team/" class="button is-primary">
                             Mehr über die Personen hinter dem Projektstart erfahren</a>
+
+<a href="/about_platform/" class="button is-primary">
+                            Mehr über die Ziele dieser Platform</a>
