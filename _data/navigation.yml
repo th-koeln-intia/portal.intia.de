@@ -5,6 +5,8 @@
       link: /about/
     - name: Das Starter-Team
       link: /team/
+    - name: Der Hintergrund der Plattform/der Community
+      link: /about_platform/
 
 - name: Innovations-Koffer
   link: /innovation/
