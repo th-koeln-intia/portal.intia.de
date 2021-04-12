@@ -1,13 +1,12 @@
-- name: Über INTIA
+- name: Über die Plattform
   link: /about/
   dropdown:
+    - name: Der Hintergrund der Plattform
+      link: /about_platform/
     - name: Der Hintergrund von INTIA
       link: /about/
     - name: Das Starter-Team
       link: /team/
-    - name: Der Hintergrund der Plattform/der Community
-      link: /about_platform/
-
 - name: Innovations-Koffer
   link: /innovation/
   dropdown:
