@@ -13,4 +13,4 @@ permalink: /science/
 Partizipative inklusive Technologieentwicklung benötigt ein solides Fundament, um informiert Entscheidungen treffen zu können und die eigenen Herangehensweisen gut zu begründen. Die Community ist eingeladen, diese Themen und Sichtweisen zu erweitern.
 
 
--> Texte, die für ehemals Fachbuch entstanden sind hier präsentieren 
+-> Texte, die für ehemals Fachbuch entstanden sind hier präsentieren. Autoren mit INTIA kennzeichnen
