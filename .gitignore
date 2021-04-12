@@ -1,6 +1,13 @@
+# Jekyll
 _site
 _drafts
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+# Node Modules
+node_modules
+build
+npm-debug.log
+.env
+.DS_Store
