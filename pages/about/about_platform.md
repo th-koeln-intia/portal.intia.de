@@ -19,7 +19,7 @@ permalink: /about_platform/
 ... kann ich hier Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
 
 ### Als Interessierte\*r ...
-... kann ich mich einfach mal umschauen. Vielleicht finde ich etwas interessantes für mich!
+... kann ich mich einfach mal umschauen. Vielleicht finde ich etwas Interessantes für mich!
 
 ## Wie kann ich mich auf der Plattform einbringen?
 Wenn du etwas fragen oder beitragen möchtest, schreibe einfach eine Nachricht!
@@ -27,6 +27,6 @@ Wenn du etwas fragen oder beitragen möchtest, schreibe einfach eine Nachricht!
 Kontakt</a>
 
 ## Die Community
-Die Plattform soll nicht nach Projekt-Ende einschlafen. Deshalb wird eine Community gebraucht, die mit ihren Ideen und Wissen die Inhalte der Plattform nutzen und bekannt machen. Mehr zu der Community erhährtst du
+Die Plattform soll nicht nach Projekt-Ende einschlafen. Deshalb wird eine Community gebraucht, die mit ihren Ideen und Wissen die Inhalte der Plattform nutzen und bekannt machen. Mehr zu der Community erhältst du<br>
 <a href="/contact/" class="button is-primary">
 Hier</a>
