@@ -10,9 +10,7 @@ permalink: /science/
 
 # Wissenschaft als Grundlage
 
-Wer sich mit partizipativer Technologie-Entwicklung beschäftigt, stößt auf viele interessante und wichtige, grundlegende Themen.
-Um ein wissenschafltiches Fundament für die Arbeit zu bilden, hat sich INTIA mit den wichtigesten Thmemen intensiv auseinander gesetzt.<br>
-Die Community ist eingelade, diesen Fundus zu erweitern!
+Partizipative inklusive Technologieentwicklung benötigt ein solides Fundament, um informiert Entscheidungen treffen zu können und die eigenen Herangehensweisen gut zu begründen. Die Community ist eingeladen, diese Themen und Sichtweisen zu erweitern.
 
 
 -> Texte, die für ehemals Fachbuch entstanden sind hier präsentieren 
