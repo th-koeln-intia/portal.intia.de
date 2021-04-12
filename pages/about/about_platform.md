@@ -4,7 +4,7 @@ subtitle: Was steckt alles drin?
 layout: page
 show_sidebar: false
 toc_title: Themen
-menubar_toc: true
+menubar_toc: false
 permalink: /about_platform/
 ---
 ## Was kann ich als Besucher\*in auf der Plattform finden?
