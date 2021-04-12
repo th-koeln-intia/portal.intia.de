@@ -1,6 +1,7 @@
 ---
 layout: method
-title: Hospitation
+published: true
+title: Erfindungsskala
 image: /assets/methods/hospitation.jpg
 rating: 3
 summary: |

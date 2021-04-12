@@ -1,6 +1,7 @@
 ---
 layout: method
-title: Smiley Feedback
+published: true
+title: Super Hero
 image: /assets/methods/hospitation.jpg
 rating: 3
 summary: |

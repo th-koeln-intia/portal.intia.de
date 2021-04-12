@@ -1,6 +1,7 @@
 ---
 layout: method
-title: Probe Kit
+published: true
+title: "Stimmt oder Stimmt nicht"
 image: /assets/methods/hospitation.jpg
 rating: 3
 summary: |

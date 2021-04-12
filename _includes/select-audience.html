@@ -1,10 +1,10 @@
 {% if page.select-audience %}
     <div class="container" ></div>
         <div class="column is-12">
-            <p class="title is-2">Ich würde gerne...</p>
+            <p class="title is-2">{{ site.data.audience.introducing_sentence }}</p>
         </div>
         <div class="columns is-multiline is-centered">
-            {% for target-audience in site.data.audience %}
+            {% for target-audience in site.data.audience.cards %}
             <div class="column is-3-fullhd is-6-tablet">
 
             <a href="{{ target-audience.where_to | relative_url }}">

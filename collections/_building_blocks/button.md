@@ -1,5 +1,6 @@
 ---
 title: Button
+published: true
 description: Ein Block, der einen Tastendruck erkennt
 product_code: B1
 layout: building-block

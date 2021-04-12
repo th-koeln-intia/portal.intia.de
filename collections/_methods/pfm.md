@@ -1,6 +1,7 @@
 ---
 layout: method
-title: "Stimmt oder Stimmt nicht"
+published: true
+title: Paper Function Mapping
 image: /assets/methods/hospitation.jpg
 rating: 3
 summary: |

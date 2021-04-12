@@ -1,6 +1,7 @@
 ---
 layout: method
-title: Super Hero
+published: true
+title: Probe Kit
 image: /assets/methods/hospitation.jpg
 rating: 3
 summary: |

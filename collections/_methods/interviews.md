@@ -1,6 +1,7 @@
 ---
 layout: method
-title: Erfindungsmemory
+published: true
+title: Interviews
 image: /assets/methods/hospitation.jpg
 rating: 3
 summary: |
