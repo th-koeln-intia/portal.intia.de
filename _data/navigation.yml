@@ -1,9 +1,9 @@
 - name: Über die Plattform
-  link: /about/
+  link: /about_platform/
   dropdown:
-    - name: Der Hintergrund der Plattform
+    - name: Über die Plattform
       link: /about_platform/
-    - name: Der Hintergrund von INTIA
+    - name: Das INTIA-Projekt als Start 
       link: /about/
     - name: Das Starter-Team
       link: /team/
