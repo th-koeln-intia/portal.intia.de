@@ -1,5 +1,5 @@
 ---
-title: Der Hintergrund von INTIA
+title: Das INTIA-Projekt als Start
 layout: page
 show_sidebar: false
 toc_title: Themen
