@@ -19,5 +19,5 @@ permalink: /about_platform/
 ## Wie kann ich mich als Besucher\*in auf der Plattform einbringen?
 Wenn du etwas fragen oder beitragen möchtest, schreibe eine Nachricht unter Kontakte.
 ## Die Community
-Die Plattform soll nicht nach Projektende einschlafen. Deshalb wird eine Community gebraucht, die mit ihren Ideen und Wissen die Inhalte der Plattform nutzen und bekannt machen.
+Die Plattform soll nicht nach Projektende einschlafen. Deshalb wird eine Community gebraucht, die mit ihren Ideen und Wissen die Inhalte der Plattform nutzen und bekannt machen.<br>
 link: /contact/
