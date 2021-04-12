@@ -1,9 +1,9 @@
 ---
 title: Über die Plattform
 layout: page
-show_sidebar: false
+show_sidebar: 
 toc_title: Themen
-menubar_toc: false
+menubar_toc: true
 permalink: /about_platform/
 ---
 # Was steckt in dieser Plattform?
