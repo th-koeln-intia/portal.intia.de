@@ -9,9 +9,9 @@ permalink: /about_platform/
 ---
 ## Was kann ich als Besucher\*in auf der Plattform finden?
 Auf dieser Plattform werden Ideen zur partizipativen und inklusiven Technik-entwicklung präsentiert. Mit den vorgestellten Inhalten können kleine, technische Geräte erfunden und auch gebaut werden. Diese sollen den Alltag erleichtern. <br>
-Es richtet sich primär an Menschen aus dem Zusammenhang der sozialen Arbeit. Aber auch alle anderen interessierte Personen sind hier herzlich Willkommen. Und eingeladen sich zu beteiligen!
+Es richtet sich primär an Menschen aus dem Zusammenhang der Sozialen Arbeit. Aber auch alle anderen interessierte Personen sind hier herzlich Willkommen. Und eingeladen sich zu beteiligen!
 
-#### Als Fachkraft der sozialen Arbeit...
+#### Als Fachkraft der Sozialen Arbeit...
 ...kann ich hier Ideen und konkrete Anleitungen finden, wie ich mit meinen Klient\*innen partizipative Technik-Entwicklung durchführen kann. Ich erfahre aber auch, wie der wissenschaftliche Hintergrund dieser Methoden aussieht.
 
 #### Als Maker\*in ...
