@@ -1,24 +1,27 @@
-- name: Über uns
-  link: /about/
+- name: Über die Plattform
+  link: /about_platform/
   dropdown:
-    - name: Mission
+    - name: Über die Plattform
+      link: /about_platform/
+    - name: Das INTIA-Projekt als Start 
       link: /about/
-    - name: Team
+    - name: Das Starter-Team
       link: /team/
-
-- name: Innovationskoffer
+- name: Innovations-Koffer
   link: /innovation/
   dropdown:
     - name: Idee
       link: /innovation/
-    - name: Basic Koffer
+    - name: Basis Innovations-Koffer
       link: /basic-case/  
-    - name: Maker Koffer
+    - name: Erweiterter Innovations-Koffer
       link: /maker-case/  
+    - name: Innovations-Labor
+      link: // 
 - name: Tools
   link: /tools/
   dropdown:
-    - name: Unsere Produkte und Werkzeuge
+    - name: Produkte und Werkzeuge
       link: /tools/
     - name: Technikblöcke
       link: /buildingblocks/
@@ -30,5 +33,7 @@
       link: /glossary/
 - name: Stories
   link: /stories/
+- name: Fachartikel
+  link: /science/
 - name: Kontakt
   link: /contact/

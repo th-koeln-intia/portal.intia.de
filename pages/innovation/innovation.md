@@ -1,5 +1,5 @@
 ---
-title: Innovationskoffer
+title: Innovations-Koffer
 layout: page
 show_sidebar: false
 toc_title: Themen
