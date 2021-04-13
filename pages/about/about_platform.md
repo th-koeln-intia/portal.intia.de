@@ -3,8 +3,8 @@ title: Über die Plattform
 subtitle: Was steckt alles drin?
 layout: page
 show_sidebar: false
-toc_title: Themen
-menubar_toc: false
+toc_title: Übersicht
+menubar_toc: true
 permalink: /about_platform/
 ---
 ## Was kann ich als Besucher\*in auf der Plattform finden?
@@ -22,13 +22,6 @@ permalink: /about_platform/
 ... kann ich mich einfach mal umschauen. Vielleicht finde ich etwas Interessantes für mich!
 
 ## Wie kann ich mich auf der Plattform einbringen?
-Wenn du etwas fragen oder beitragen möchtest, schreibe einfach eine Nachricht!
+Werde Teil der Community! Jede\*r ist eingeladen, etwas zur Plattform beizutragen! Es kann ein Erfahrungsbericht sein. Oder die Beschreibung einer Methode. Oder ein Fachartikel zum wissenschaftlichen Hintergrund. Anregungen und Fragen sind auch herzlich willkommen. Schreib einfach eine Nachricht!
 <a href="/contact/" class="button is-primary">
 Kontakt</a>
-
-## Die Community
-Die Plattform soll nicht nach Projekt-Ende einschlafen. Deshalb wird eine Community gebraucht, die mit ihren Ideen und Wissen die Inhalte der Plattform nutzen und bekannt machen.<br>
-Wie kannst du am Besten der Community helfen: Probier die hier dargestellten Inhalte aus! Und erzähl anderen davon!
-Mehr zu der Community erhältst du<br>
-<a href="/contact/" class="button is-primary">
-Hier</a>
