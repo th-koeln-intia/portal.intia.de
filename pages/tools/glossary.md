@@ -4,7 +4,7 @@ show_sidebar: false
 layout: glossary
 toc_title: Begriffe
 menubar_toc: true
-sort: name
+sort: title
 permalink: /glossary/
 ---
 # Das Glossar

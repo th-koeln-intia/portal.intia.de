@@ -1,22 +1,22 @@
 introducing_sentence: Ich würde gerne...
 cards:
-- title: develop
-  image: https://via.placeholder.com/1200x900
-  description: >
-    ...Prototypen entwickeln
-  where_to: /innovation/
-- title: methods
-  image: https://via.placeholder.com/1200x900
-  description: >
-    ...Methoden für partizipative Arbeit finden
-  where_to: /methods/
-- title: improve
-  image: https://via.placeholder.com/1200x900
-  description: >
-    ...dabei helfen neue Werkzeuge und Methoden beizusteuern und existierende zu verbessern
-  where_to: /tools/
-- title: science
-  image: https://via.placeholder.com/1200x900
-  description: >
-    ...etwas zum wissenschaftlichen Diskurs beitragen
-  where_to: /stories/
+  - title: develop
+    image: https://via.placeholder.com/1200x900
+    description: >
+      ...Prototypen entwickeln
+    where_to: /innovation/
+  - title: methods
+    image: https://via.placeholder.com/1200x900
+    description: >
+      ...Methoden für partizipative Arbeit finden
+    where_to: /methods/
+  - title: improve
+    image: https://via.placeholder.com/1200x900
+    description: >
+      ...dabei helfen neue Werkzeuge und Methoden beizusteuern und existierende zu verbessern
+    where_to: /tools/
+  - title: science
+    image: https://via.placeholder.com/1200x900
+    description: >
+      ...etwas zum wissenschaftlichen Diskurs beitragen
+    where_to: /stories/
