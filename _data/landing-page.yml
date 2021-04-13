@@ -3,7 +3,7 @@ sections:
   - title: Die Idee hinter der Plattform
     text: |
         Was bietet die Plattform? Warum wurde das Projekt INTIA gestartet? Wer steckt dahinter? Und wer wird gebraucht, um es lebendig zu halten?<br>
-            image: https://via.placeholder.com/1200x800
+    image: https://via.placeholder.com/1200x800
     link: /about_platform/
   - title: Innovations-Koffer
     text: |
