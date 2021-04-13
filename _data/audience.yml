@@ -1,36 +1,20 @@
-
 - title: develop
   image: https://via.placeholder.com/1200x900
   description: >
-    ...meine Ideen in Technik umsetzen<br>
-    Hier geht es zum Innovationskoffer. Mit seinem Inhalt können einzelne Personen oder Gruppen Prototypen (Link zum Glossar) entwickeln.
+    ...meine Ideen in Technik umsetzen
   where_to: /innovation/
 - title: methods
   image: https://via.placeholder.com/1200x900
   description: >
-    ...Methoden für partizipative Arbeit finden<br>
-    tbd
+    ...Methoden für partizipative Arbeit anwenden
   where_to: /methods/
 - title: improve
   image: https://via.placeholder.com/1200x900
   description: >
-    ...mich als Maker einbringen<br>
-    neue Werkzeuge und Methoden beisteuern und existierende verbessern
-    tbd
+    ...als Maker\*in aktiv sein
   where_to: /tools/
-- title: stories
-  image: https://via.placeholder.com/1200x900
-  description: >
-    ...etwas über aktuelle Geschichten erfahren
-  where_to: /stories/  
 - title: science
   image: https://via.placeholder.com/1200x900
   description: >
     ... etwas über das theoretische Fundament erfahren 
-  where_to: //
-- title: science
-  image: https://via.placeholder.com/1200x900
-  description: >
-    ... teil der Community werden!<br>
-    Trage etwas zur Plattform/zur Community bei und schreibe uns Ideen, berichte über eigene Projekte. Egal ob groß oder klein.  
-  where_to: //
+  where_to: /science/
