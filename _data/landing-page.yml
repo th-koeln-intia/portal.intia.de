@@ -2,19 +2,18 @@ style: landing-page-main-content
 sections:
   - title: Die Idee hinter der Plattform
     text: |
-        Warum wurde das Projekt INTIA gestartet, wer steckt dahinter und wer wird gebraucht, um es lebendig wachsen zu lassen?<br>
-        Hier wird alles zum Hintergrund von INTIA und der Vision zur Plattform und Community dargestellt.
-    image: https://via.placeholder.com/1200x800
-    link: /about/
+        Was bietet die Plattform? Warum wurde das Projekt INTIA gestartet? Wer steckt dahinter? Und wer wird gebraucht, um es lebendig zu halten?<br>
+            image: https://via.placeholder.com/1200x800
+    link: /about_platform/
   - title: Innovations-Koffer
     text: |
         Der oder besser gesagt die Innovations-Koffer sind das Ergebnis der partizipativen Technikentwicklung mit Jugendlichen.<br>
-        Was sie enthalten, wie sie genutzt werden können und wo sie erhätlich sind erfährst du hier.
+        Was sie enthalten, wie sie genutzt werden können und wo sie erhältlich sind erfährst du hier.
     image: https://via.placeholder.com/1200x800
     link: /innovation/
   - title: Tools
     text: |
-        Alles rund um das partizipative Entwicklen von neuer Technik. Ob Technik, Methoden oder wichtige Begriffe. 
+        Alles rund um das partizipative Entwickeln von digitalen Alltagshelfern. Technik, Methoden und wichtige Begriffe. 
     image: https://via.placeholder.com/1200x800
     link: /tools/
   - title: Stories
