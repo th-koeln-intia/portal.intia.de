@@ -1,12 +1,12 @@
 - title: develop
   image: https://via.placeholder.com/1200x900
   description: >
-    ...meine Ideen in Technik umsetzen
+    ...meine Ideen in technische Lösungen umsetzen
   where_to: /innovation/
 - title: methods
   image: https://via.placeholder.com/1200x900
   description: >
-    ...Methoden für partizipative Arbeit anwenden
+    ...Methoden für partizipatives Arbeiten anwenden
   where_to: /methods/
 - title: improve
   image: https://via.placeholder.com/1200x900
@@ -16,5 +16,5 @@
 - title: science
   image: https://via.placeholder.com/1200x900
   description: >
-    ... etwas über das theoretische Fundament erfahren 
+    ...mich mit wissenschaftlichen Grundlagen befassen 
   where_to: /science/
