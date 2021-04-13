@@ -22,6 +22,6 @@ permalink: /about_platform/
 ... kann ich mich einfach mal umschauen. Vielleicht finde ich etwas Interessantes für mich!
 
 ## Wie kann ich mich auf der Plattform einbringen?
-Werde Teil der Community! Jede\*r ist eingeladen, etwas zur Plattform beizutragen! Es kann ein Erfahrungsbericht sein. Oder die Beschreibung einer neuen Methode. Oder ein Fachartikel zum wissenschaftlichen Hintergrund. Anregungen und Fragen sind auch herzlich willkommen. Schreib einfach eine Nachricht!
+Werde Teil der Community! Jede\*r ist eingeladen, etwas zur Plattform beizutragen! Es kann ein Erfahrungsbericht sein. Oder die Beschreibung einer neuen Methode. Oder ein Fachartikel zum wissenschaftlichen Hintergrund. Anregungen und Fragen sind auch herzlich willkommen. Schreib einfach eine Nachricht!<br>
 <a href="/contact/" class="button is-primary">
 Kontakt</a>
