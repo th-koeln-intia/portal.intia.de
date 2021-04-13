@@ -1,5 +1,6 @@
 ---
 layout: method
+published: true
 title: Check-In
 image: /assets/methods/hospitation.jpg
 rating: 3

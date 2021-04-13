@@ -1,6 +1,7 @@
 ---
 layout: method
-title: Paper Function Mapping
+published: true
+title: Escape Game
 image: /assets/methods/hospitation.jpg
 rating: 3
 summary: |

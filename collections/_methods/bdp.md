@@ -1,6 +1,7 @@
 ---
 layout: method
-title: Warm-Ups
+published: true
+title: Behaviour-Driven Prototyping
 image: /assets/methods/hospitation.jpg
 rating: 3
 summary: |

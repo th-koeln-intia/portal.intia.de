@@ -40,12 +40,12 @@ defaults:
       layout: page
       show_sidebar: true  
 
-paginate: 5
+paginate: 3
 paginate_path: "/stories/page:num"
 
 footer_menu: footer
 
-
+collections_dir: collections
 collections:
   building_blocks: 
     output: true
@@ -53,4 +53,6 @@ collections:
     show_sidebar: false
   methods:
     output: true
-
+  glossary:
+    output: true
+    show_sidebar: false

@@ -1,6 +1,7 @@
 ---
 layout: method
-title: Workshops
+published: true
+title: Warm-Ups
 image: /assets/methods/hospitation.jpg
 rating: 3
 summary: |

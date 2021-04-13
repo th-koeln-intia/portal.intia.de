@@ -1,5 +1,6 @@
 ---
 title: Mobile Hub
+published: true
 description: Zentraler Block der die Kommunikation zwischen allen Blöcken verwaltet und steuert
 product_code: MB1
 layout: building-block

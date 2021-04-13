@@ -1,6 +1,7 @@
 ---
 layout: method
-title: Escape Game
+published: true
+title: Erfindungsmemory
 image: /assets/methods/hospitation.jpg
 rating: 3
 summary: |

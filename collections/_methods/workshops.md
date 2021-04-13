@@ -1,6 +1,7 @@
 ---
 layout: method
-title: Behaviour-Driven Prototyping
+published: true
+title: Workshops
 image: /assets/methods/hospitation.jpg
 rating: 3
 summary: |

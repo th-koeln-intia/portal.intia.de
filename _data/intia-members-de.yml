@@ -25,7 +25,7 @@
   persons:
     - name: Carola Janda
       institute: Institut für Medienforschung und Medienpädagogik (IMM)
-      profile: https://www.th-koeln.de/personen/carola.janda/- 
+      profile: https://www.th-koeln.de/personen/carola.janda/-
     - name: Caroline Kortekaas
       institute: Institut für Medienforschung und Medienpädagogik (IMM)
       profile: https://www.th-koeln.de/personen/caroline.kortekaas/
@@ -45,7 +45,6 @@
       institute: Cologne Institute for Digital Ecosystems (CIDE)
       profile: https://www.th-koeln.de/personen/dennis.wilk/
 - tier_name: Projektpartner
-  description: |-
   persons:
     - name: Diakonie Michaelshoven, Kinder- und Familienhilfen Michaelshoven gGmbH
       profile: https://www.diakonie-michaelshoven.de/
@@ -53,5 +52,4 @@
       profile: https://www.godesheim.de/
     - name: Fachstelle Jugendmedienkultur NRW (FJMK)
       profile: https://www.jugendmedienkultur-nrw.de/
-      
-- tier_name: Logoleiste einfügen - WPKs nur hier, Wmbf in footer(auf alle Seiten) 
+- tier_name: Logoleiste einfügen - WPKs nur hier, Wmbf in footer(auf alle Seiten)

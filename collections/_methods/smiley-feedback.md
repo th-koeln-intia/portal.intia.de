@@ -1,6 +1,7 @@
 ---
 layout: method
-title: Erfindungsskala
+published: true
+title: Smiley Feedback
 image: /assets/methods/hospitation.jpg
 rating: 3
 summary: |

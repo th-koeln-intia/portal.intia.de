@@ -1,6 +1,7 @@
 ---
 layout: method
-title: Interviews
+published: true
+title: Hospitation
 image: /assets/methods/hospitation.jpg
 rating: 3
 summary: |
