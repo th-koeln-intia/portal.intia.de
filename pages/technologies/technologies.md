@@ -2,6 +2,6 @@
 title: Technologien
 subtitle: Eine übersicht der Technologien
 show_sidebar: false
-callouts: tools-callout
+callouts: technologies-callout
 permalink: /technologies/
 ---
