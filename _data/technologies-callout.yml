@@ -1,6 +1,12 @@
 style: is-light
 height: is-medium
 items:
+  - title: Prototypen
+      icon: fa-box-open
+      description: >
+        Alle mithilfe von INTIA entwickelten Prototypen.
+      call_to_action_name: Zu den Prototypen
+      call_to_action_link: /prototypes/
   - title: Technikblöcke
     icon: fa-shapes
     description: >
@@ -13,15 +19,4 @@ items:
       Das Methodenradar gibt einen einfachen Überblick interessanter partizipativer Methoden.
     call_to_action_name: Zum den Methoden
     call_to_action_link: /methods/
-  - title: Prototypen
-    icon: fa-box-open
-    description: >
-      Alle mithilfe von INTIA entwickelten Prototypen.
-    call_to_action_name: Zu den Prototypen
-    call_to_action_link: /prototypes/
-  - title: Glossar
-    icon: fa-book
-    description: >
-      Eine Übersicht wichtiger und relevanter Begriffe die hilfreich sind.
-    call_to_action_name: Zum Glossar
-    call_to_action_link: /glossary/
+
