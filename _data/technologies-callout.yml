@@ -19,3 +19,9 @@ items:
       Das Methodenradar gibt einen einfachen Überblick interessanter partizipativer Methoden.
     call_to_action_name: Zum den Methoden
     call_to_action_link: /methods/
+  - title: Entwurfsmuster
+    icon: fa-route
+    description: |
+      Eine Übersicht aller von INTIA entwickelten Entwurfsmustern.
+    call_to_action_name: Zum den Entwurfsmustern
+    call_to_action_link: /design-patterns/
