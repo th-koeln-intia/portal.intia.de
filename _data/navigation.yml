@@ -29,6 +29,8 @@
       link: /buildingblocks/
     - name: Methoden
       link: /methods/
+    - name: Entwurfsmuster
+      link: /patterns/
 - name: Stories
   link: /stories/
 - name: Fachartikel
