@@ -1,6 +1,6 @@
 ---
-title: Produkte und Werkzeuge
-subtitle: Eine übersicht der Produkte und Werkzeuge
+title: Technologien
+subtitle: Eine übersicht der Technologien
 show_sidebar: false
 callouts: tools-callout
 permalink: /tools/
