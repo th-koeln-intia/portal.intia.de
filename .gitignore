@@ -6,7 +6,6 @@ _drafts
 .jekyll-metadata
 vendor
 # Node Modules
-node_modules
 build
 npm-debug.log
 .env
