@@ -5,6 +5,7 @@ _drafts
 .jekyll-cache
 .jekyll-metadata
 vendor
+Gemfile.lock
 # Node Modules
 build
 npm-debug.log
