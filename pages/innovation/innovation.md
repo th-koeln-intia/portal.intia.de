@@ -7,33 +7,163 @@ menubar_toc: true
 permalink: /innovation/
 ---
 # Der Innovationskoffer
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fermentum leo vel orci porta non pulvinar neque laoreet suspendisse. Lorem ipsum dolor sit amet. A condimentum vitae sapien pellentesque habitant morbi. Morbi leo urna molestie at elementum. Semper viverra nam libero justo laoreet sit amet cursus. Nulla pharetra diam sit amet nisl. Iaculis urna id volutpat lacus. Nunc non blandit massa enim. Lobortis feugiat vivamus at augue eget arcu dictum varius. In hendrerit gravida rutrum quisque non tellus orci ac. Ut eu sem integer vitae. Hendrerit dolor magna eget est. Est sit amet facilisis magna etiam tempor orci.
 
-Eu mi bibendum neque egestas congue. Malesuada fames ac turpis egestas sed tempus urna et. Aenean et tortor at risus viverra adipiscing at in tellus. Adipiscing elit pellentesque habitant morbi. Leo integer malesuada nunc vel risus commodo viverra maecenas accumsan. Potenti nullam ac tortor vitae purus. Gravida arcu ac tortor dignissim convallis aenean et tortor. Imperdiet massa tincidunt nunc pulvinar. Dignissim suspendisse in est ante in. Auctor augue mauris augue neque. Interdum velit laoreet id donec ultrices tincidunt. Lacus suspendisse faucibus interdum posuere lorem. Proin libero nunc consequat interdum varius sit. Volutpat blandit aliquam etiam erat. Orci nulla pellentesque dignissim enim sit amet venenatis. Eu consequat ac felis donec et odio pellentesque diam volutpat. Vulputate ut pharetra sit amet aliquam id diam maecenas. Sed arcu non odio euismod. Adipiscing elit pellentesque habitant morbi tristique senectus et. Id consectetur purus ut faucibus.
+Wenn man zu beginn den Namen "Innovations-Koffer" hört hat wahrscheinlich jeder eine erste Vorstellung. Dennoch, wenn man genauer drüber nachdenkt werden die meisten nicht sicher sein was es mit diesem Koffer, der hier vorgestellt wird, auf sich hat.
+Die Bezeichnung "Koffer" weist eindeutig auf "Mobilität" hin. Dies stellt vermutlich niemand in Frage. Aber was hat es mit dem Begriff Innovation auf sich?
 
-Quam quisque id diam vel quam. Eu ultrices vitae auctor eu augue ut lectus. Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Auctor eu augue ut lectus. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Nec feugiat nisl pretium fusce id. Tempor commodo ullamcorper a lacus. In ornare quam viverra orci sagittis eu volutpat. Nunc vel risus commodo viverra maecenas accumsan lacus. Nullam ac tortor vitae purus faucibus ornare suspendisse. Eget magna fermentum iaculis eu non diam phasellus vestibulum.
+Alternativ könnte der Koffer auch "Ideen-Helfer", "Kreativität-Box", "Alltags-Problem-Aufdecker" und so weiter heißen. Auch das gibt eine Idee, was der Koffer kann, liefert aber keine Lösung. Die Frage, was der Koffer, ist kann gar nicht so einfacher beantwortet werden. Was man aber beantworten kann ist, welche Idee hinter dem Koffer steht und, was er erreichen soll.
 
-Risus nullam eget felis eget nunc. Faucibus ornare suspendisse sed nisi lacus sed viverra tellus. Vivamus at augue eget arcu dictum varius duis at consectetur. In ornare quam viverra orci sagittis eu volutpat odio. Maecenas sed enim ut sem viverra aliquet. Dictum varius duis at consectetur lorem donec. Sem integer vitae justo eget magna. Id diam maecenas ultricies mi eget mauris pharetra et ultrices. Ullamcorper eget nulla facilisi etiam dignissim diam quis. Sed lectus vestibulum mattis ullamcorper velit. Molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit sed. Viverra justo nec ultrices dui sapien eget. Mattis rhoncus urna neque viverra.
 
-Ac auctor augue mauris augue neque gravida. Neque ornare aenean euismod elementum nisi quis. Non quam lacus suspendisse faucibus interdum. Vitae aliquet nec ullamcorper sit. Posuere urna nec tincidunt praesent semper feugiat. Sed cras ornare arcu dui vivamus arcu felis bibendum. Fringilla ut morbi tincidunt augue interdum velit euismod in. Tortor at risus viverra adipiscing. Ultricies integer quis auctor elit sed vulputate. Aliquet nibh praesent tristique magna sit amet purus. Nibh ipsum consequat nisl vel pretium.
+## Der Innovationskoffer
+Die zugrunde liegende Idee hinter dem Innovation-Koffer ist, idealerweise partizipativ, Probleme im Alltag aufzudecken, Ideen zu entwickeln, wie man diese Probleme lösen kann und am Ende diese Idee umzusetzen. Dies ist für sich nichts Ungewöhnliches und ist auch nicht das erste Mal, dass jemand genau das versucht. Es sind die zu Grunde liegenden Bedingungen die diesen Koffer herausstechen lässt:
 
-## Konzept
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh. Neque gravida in fermentum et sollicitudin ac orci phasellus. Amet purus gravida quis blandit turpis cursus. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Et odio pellentesque diam volutpat. Vitae elementum curabitur vitae nunc sed velit dignissim sodales. Malesuada nunc vel risus commodo viverra maecenas accumsan lacus. Proin fermentum leo vel orci porta non pulvinar neque. Odio ut enim blandit volutpat maecenas volutpat blandit aliquam. Non diam phasellus vestibulum lorem sed.
+* Für jeden - man muss keine Fachperson sein. Fähigkeiten wie Programmieren, Handwerken oder andere klassische Fähigkeiten, die vielen Entwicklungsprozessen zugrunde liegen, sind nebensächlich. Entwickelt wurde der Innovations-Koffer interdisziplinär und mit Teilnehmer*innen mit unterschiedlichsten Vulnerabilitäten.
+* Mobil - Ein Koffer kann überall mit hingenommen werden.
+* Offen - Der Koffer und die dazugehörigen Elemente wurden im Geiste des OpenSource entwickelt. Alle Eigenentwicklungen stehen nicht nur frei zur Verfügung. Jeder ist eingeladen mit zu Entwicklern - der Innovations-Koffer ist ein lebendiges Produkt, das jeder weiterentwickeln und verändern darf.
+* Kostengünstig - Was bringt die schönste Entwicklung wenn sie für die meisten Menschen unerschwinglich ist? Der Innovationskoffer wurde so zusammengestellt das er möglichst erschwinglich für die meisten ist. Jedes element ist begründet und sollte für den einen oder anderen die Komposition des Koffers zu teuer und in teilen nicht sinnvoll erscheinen kann dieser einfacher an die eigene Bedürfnisse angepasst werden.
+* Modularität - Bei der Zusammenstellung und Entwicklung wurde darauf gedachtet das Elemente austauschbar und der Koffer an sich erweiterbar ist. Somit ist der Innovations-Koffer hoch individualisierbar. Sollte der Bedarf entstehen an Elemente, die es nicht im Koffer gibt, ist es einfach diese selbstständig hinzuzufügen. Sind Elemente nicht mehr zu erwerben, so verweisen wir umfangreich auf Alternativen. Dies fördert ebenfalls die Langlebigkeit. (Der Modularität des Innovations-Koffers haben wir hier einen eigenen Abschnitt gewidmet)
 
-## Methodischer Ansatz
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh. Neque gravida in fermentum et sollicitudin ac orci phasellus. Amet purus gravida quis blandit turpis cursus. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Et odio pellentesque diam volutpat. Vitae elementum curabitur vitae nunc sed velit dignissim sodales. Malesuada nunc vel risus commodo viverra maecenas accumsan lacus. Proin fermentum leo vel orci porta non pulvinar neque. Odio ut enim blandit volutpat maecenas volutpat blandit aliquam. Non diam phasellus vestibulum lorem sed.
 
-## Der kleine Koffer
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh. Neque gravida in fermentum et sollicitudin ac orci phasellus. Amet purus gravida quis blandit turpis cursus. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Et odio pellentesque diam volutpat. Vitae elementum curabitur vitae nunc sed velit dignissim sodales. Malesuada nunc vel risus commodo viverra maecenas accumsan lacus. Proin fermentum leo vel orci porta non pulvinar neque. Odio ut enim blandit volutpat maecenas volutpat blandit aliquam. Non diam phasellus vestibulum lorem sed.
+### Was ist also der Innovations-Koffer?
+Eine hochkomprimierte Tool-Box, die Personen unterschiedlichstem Alters und Kontextes unterstützt Ideen und Lösungen für den eigenen Alltag zu entwickeln. Dabei besteht der Koffer aus verschiedensten analogen und digitalen Helfern.
+Mit diesem Koffer werden Menschen ermächtigt und sanft an die Möglichkeiten moderner Technologien herangeführt.
+
+Erfahrt mehr in Arbeiten mit dem Koffer.
+
+## Arbeit mit dem Koffer
+Im Innovationskoffer stecken unterschiedlichste Methoden um Unterstützung für die individuelle Ideenfindung zu geben. Hier findet ihr eine eine kurze Vorstellung einiger Elemente. Wenn ihr mehr dazu erfahren wollt findet ihr zu den Elementen auch Stories, die mehr über diese Erzählen.
+
+Methodensammlung
+
+- Querverlinkung -
+
+Escape Game
+
+- Querverlinkung -
+
+BDP
+
+- Querverlinkung -
+
+## Macht mit!
+ToDo: Aufforderung wie man am Koffer mit macht, wie man an der Seite mit macht und was es für Teilaufgaben gibt
+
+## Typen und Inhalt
+Zu Beginn der Entwicklung war es das Ziel, einen kleinen und einen großen Innovations-Koffers zu entwickeln. Im Verlauf der Entwicklung zeigte sich aber, dass dieser Ansatz nicht zu der Zielsetzung des Koffers passt.
+Inzwischen steht ein Basis Innovations-Koffer im Fokus und dessen Erweiterbarkeit. Über die Erweiterbarkeit kann im Bereich Modularität mehr gelesen werden. 
+
+Was macht einen Basis-Koffer unser dessen Erweiterbarkeit besser? Durch die Modularität kann jeder Koffer mit einfachen Schritten zu einem personalisierten Maxi-Koffer erweitert werden. Diese Individualität steht im Einklang mit den Zielen des Koffers.
+Damit Interessierte aber nicht selbstständig jedes einzelne Element aussuchen müssen, bieten wir Erweiterungen für den Basis-Koffer. 
+
+### Basis Innovations-Koffer
+Der Basis-Koffer beinhaltet alle analogen Inhalte, die von INTIA entwickelt wurden, also die verschiedenen methodischen Artefakte, wie die Methodensammlung und Sets, wie das BDP. Des Weiteren umfangreiche Anleitungen und eine Reihe von Aufgaben. Diese können  genutzt werden, um eine schnelle selbstständige Einarbeitung durchzuführen, oder um Veranstaltungen durchzuführen.
+
+Außerdem befindet sich im Basis-Koffer ein grundlegendes Technik-Kit. Die Auswahl der Elemente ist dabei so kuratiert worden, dass eine gute Nutzung gefördert wird und zeitgleich möglichst wenige Elemente beiliegen. Dies fördert die Zugänglichkeit und vermeidet selten genutzt Zusatz-Hardware. Genau diese Eigenschaft ist typisch für die meisten edukativen Hardware-Sets. Der dominiert oft Quantität über Qualität bei der Auswahl der Technik-Elemente.
+
+#### Abwandlungen:
+
+Akku-Koffer - diese Version kann ohne Netzstrom betrieben werden. Alle Elemente wurden gegen Akku- oder Batterie-Betriebene Versionen ausgetauscht. Eine Nutzung ist aber auf knapp über 1h beschränkt.
+
+### Erweiterter Innovations-Koffer
+Ursprünglich sollte es sich bei diesem Koffer um eine Maxi-Version des Basis-Koffers handeln. Allerdings ist dies nur bedingt sinnvoll.
+Durch die leichte Erweiterbarkeit des Technik-Kits und die Tatsache, dass der Maxi-Koffer hauptsächlich aus weiteren Technik-Elementen besteht, sind Erweiterungs-Sets sinnvoller. Das hat ebenfalls den Vorteil, dass mehre kleinere Koffer anstelle eines großen Koffers angeboten werden können. Dies wirkt zwar banal, allerdings haben viel Einrichtungen häufig Platzprobleme zwecks Lagerung.
+
+Folgende Erweiterungs-Sets sind angedacht:
+
+Button und Sensorset
+Voice-Assistent
+Unsere besten Prototypen
+
+### Weiteres
+Analog-Koffer - diese Version des Koffers beinhaltet nur die Methoden-Sammlungen und Anleitungen. Er ist besonders geeignet für Einrichtungen die bereits über Hardware verfügen oder sich selbst ausstatten. Des Weiteren ist dieser ein Artefakt des Innovations-Labors.
+
+Innovations-Labor - das Vorgehen und die Technik hinter dem Innovations-Koffer muss nicht zwingend als mobile Lösung genutzt werden. Eine Integration in einem MakerSpace, Kreativ-Raum oder anderen Räumlichkeiten hat seine eigenen Vorteile. Hier findet sich mehr über das Thema Innovations-Labor.
+
+
+
+## Was steckt im Koffer?
+Dieser Abschnitt listet alle Elemente auf die in einem Innovations-Koffer zu finden sind. Im Bereich Technik werden einige Elemente separat aufgeführt die nicht Teil des Basis Innovations-Koffers sind. Aus diesem Grund sind diese Rot eingefärbt.
+
+### Anleitungen und Aufgaben
+- Inhaltsliste
+- Begrüßungsschreiben
+- Anleitung für einen vollständigen Kreativprozess
+- Einführung mit dem Escape Game
+- "Wie entwickel ich mein eigenes Escape Game"
+- Node-Red Cheat-Sheat
+- Node-Red Einführungen
+- Aufgaben zum Erlernen und Umgang mit dem Kit und der Technik
 
 ### Methoden
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh. Neque gravida in fermentum et sollicitudin ac orci phasellus. Amet purus gravida quis blandit turpis cursus. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Et odio pellentesque diam volutpat. Vitae elementum curabitur vitae nunc sed velit dignissim sodales. Malesuada nunc vel risus commodo viverra maecenas accumsan lacus. Proin fermentum leo vel orci porta non pulvinar neque. Odio ut enim blandit volutpat maecenas volutpat blandit aliquam. Non diam phasellus vestibulum lorem sed.
+- Methodensammlung mit min. 20 Karten
+- BDP-Set
+- Nerv-Tagebuch-Block - passend zur Methode ein Abreisblock mit entsprechendem Aufdruck. Die Maße sind so gewählt das Instax-Fotos auf diese aufgeklebt werden können.
+- Problemkarten/Kontextkarten
 
-### Karten
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh. Neque gravida in fermentum et sollicitudin ac orci phasellus. Amet purus gravida quis blandit turpis cursus. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Et odio pellentesque diam volutpat. Vitae elementum curabitur vitae nunc sed velit dignissim sodales. Malesuada nunc vel risus commodo viverra maecenas accumsan lacus. Proin fermentum leo vel orci porta non pulvinar neque. Odio ut enim blandit volutpat maecenas volutpat blandit aliquam. Non diam phasellus vestibulum lorem sed.
+### Technik
+#### Mini-Computer
+Die digitale Steuerzentralle des Innovations-Koffers. Die nachfolgende Auflistung beschreibt die Einzelelemente des Mini-Computers. In den meisten Szenarien wird der Mini-Computer aber als ganzes angesprochen. Die Auflistung dient also vor allem Aspekten wie der Erstbetriebnahme und der Inhaltsliste.
 
-## Der Koffer-Deluxe
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh. Neque gravida in fermentum et sollicitudin ac orci phasellus. Amet purus gravida quis blandit turpis cursus. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Et odio pellentesque diam volutpat. Vitae elementum curabitur vitae nunc sed velit dignissim sodales. Malesuada nunc vel risus commodo viverra maecenas accumsan lacus. Proin fermentum leo vel orci porta non pulvinar neque. Odio ut enim blandit volutpat maecenas volutpat blandit aliquam. Non diam phasellus vestibulum lorem sed.
+- Raspberry
+- SD-Karte
+- Zigbee Stick
+- Display
+- Netzteil
 
-### Technikbausteine
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh. Neque gravida in fermentum et sollicitudin ac orci phasellus. Amet purus gravida quis blandit turpis cursus. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Et odio pellentesque diam volutpat. Vitae elementum curabitur vitae nunc sed velit dignissim sodales. Malesuada nunc vel risus commodo viverra maecenas accumsan lacus. Proin fermentum leo vel orci porta non pulvinar neque. Odio ut enim blandit volutpat maecenas volutpat blandit aliquam. Non diam phasellus vestibulum lorem sed.
+#### Smart-Komponenten kommerziell
+Im Ideal sollen so wenig DiY-Komponenten wie möglich hinzugefügt werden. Die nachfolgende Liste kann erst einigen Tests finalisiert werden.
+
+- Glühbirne
+- Knopf komplex
+- Knöpfe einfach
+- Türkontakt
+- Steckdose 
+- Temperatursensor 
+- Erschütterungssensor 
+- Bewegungssensor 
+
+#### Smart-Komponenten Eigenbau
+Elemente die gebaut werden mussten da sie in dieser Form nicht existieren.
+
+- Kiste
+- Keypad
+- Display
+- - E-Ink Bilderrahmen
+- - OLED
+
+### Zubehör
+- USB-Multi-Netzteil
+- e27-Fassung
+
+## Modularität
+Personen und dessen Probleme sind vielseitig. Somit auch die Bedarfe und mögliche Lösungsansätze. Es ist somit unwahrscheinlich das ein Koffer alleine für einen Großteil aller Einsatzberiche gerüstet ist und zeitgleich umfangs-sparsam. Warum sollte eine sparsame Ausstattung angestrebt werden? Zum einen sollte der Preis nicht künstlich hochgetrieben werden. Zum anderen wirkt ein großer Umfang entgegen der Zugänglichkeit.
+Es ist somit sinnvoll wenige Kern-Inhalte anzustreben und den Fokus auf eine einfache und schnelle Erweiterbarkeit zu legen. Aus diesem Grund ist die Modularisierung des Technik-Kits ein Kernaspekt.
+
+Aktuell wird dies über zwei Hauptsäulen erreicht: Fertiglösungen vor DiY-Hardware und "dumme" Hardware-Elemente. Die genauere Bedeutung wird im Folgenden aufgeschlüsselt.
+
+### Fertiglösungen vor DiY-Hardware
+Diese Säule der Modularisierbarkeit ist schnell erläutert. Die Selbstentwicklung bedeutet Zeit und Aufwand. Auch wenn DiY oft günstiger erscheint wird die Aufbauzeit und das benötigte Know-How sowie zusätzliche Werkzeuge zu oft nicht mit eingerechnet. Zwar lässt sich ein Temperatursensor für unter 5€ bauen - benötigt werden aber Kabel und Lötkolben und dann besitzt die Eigenentwicklung noch kein Gehäuse und ist kabelgebunden. Für 10-15€ ist eine Fertiglösung in jeglicher Hinsicht überlegen. Ansprechendes Design, kabellos, zuverlässig und schnell eingebunden.
+Dank dieser Charakteristika ist es auch für Nicht-Techniker*innen möglich das Technik-Kit zu erweitern.
+
+### "Dumme" Hardware-Elemente
+Im Kontext des Smart-Homes wird oft von smarter, also kluger, Hardware geredet. Dies ist aber diei Bezeichnung, die oft zu Fehlschlüssen führt. Die kluge Glühbirne besitzt keine Intelligenz. Man kann nicht mal Wecker oder Schalt-Zeiten einstellen. Wenn bezeichnet Smart-Hardware so, wenn sie Befehle ausführen kann. Das Smarte am Smart-Home ist die Schaltzentrale, das Gateway, der Computer im Zentrum, der alle Geräte steuert und koordiniert.
+Dieses Konzept wird im Koffer adaptiert. Alle Geräte werden möglichst funktionsarm konzipiert bzw. eingebunden. Somit verhalten sich die Elemente im Koffer wie Arme und Beine - der Mini-Computer ist das Gehirn.
+Diese Konzeption ermöglicht einen leichten Austausch. Mit wenigen Schritten kann eine Glühbirne durch ein Display getauscht oder ein weiterer Button dazwischen geschaltet werden.
+Dies fördert auch die Selbst-Entwicklung von Geräten. Auch wenn Fertiglösungen bevorzugt werden, ist es manchmal notwendig, ein DiY-Element zu erstellen und einzubinden. Ein Beispiel hierfür sind Sensoren, die Auskunft über Pflanzen und Erde geben. Das zu bauende Element muss nur einfachste Informationen versenden. Die Verarbeitung dieser Informationen wird komplett vom zentrallen Mini-Computer übernommen.
+
+### Limitationen
+Zum einen sollten alle Fertig-Lösungen das Zigbee-Protokoll beherrschen. Dabei sollte darauf geachtet werden, dass sich die Geräte auf der Kompatibilitätsseite von Zigbee2MQTT befinden. Sollte dies nicht der Fall sein, ist es aber sehr wahrscheinlich, dass eine Kompatibilität bald hinzugefügt wird - dieses Projekt ist sehr lebendig und hoch aktiv.
+Zum anderen müssen alle DiY-Lösungen mittels MQTT kommunizieren.
+
+### How-To-Anleitungen
+Diese sehr einfachen, klaren Prinzipien müssen auch für wenig Technik-affine Menschen "operationalisierbar" gemacht werden - sprich: In einfachen Worten erklären, ...
+
+- ... wie entscheide ich, ob eine neue Komponente (irgendwas Neues von IKEA Tradfri, ...) sich als Modul eignet
+- ... wenn es sich eignet: Wie binde ich das ein. 
+
+### Fazit zur Modularisierung
+Zusammenfassend kann gesagt werden, dass der modulare Charakter des Technik-Kits es einfach macht, Nicht-Techniker*innen weitere Elemente hinzuzufügen. Außerdem können Maker*innen schnell neue Elemente einbinden, die sie selbst entwickelt haben, wenn gewisse Faktoren beachtet werden.
+
+Dadurch, dass die "Inteligenz" auf der Seite des zentralen Mini-Computers liegt ist eine Erweiterung sehr einfach.
+
+Allerdings müssen gewisse Limitationen bedacht werden.
