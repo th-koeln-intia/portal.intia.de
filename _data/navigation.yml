@@ -10,8 +10,10 @@
 - name: Innovations-Koffer
   link: /innovation/
   dropdown:
-    - name: Idee
+    - name: Innovations-Koffer
       link: /innovation/
+    - name: Alles über den Koffer
+      link: /case/
     - name: Kaufen
       link: /buy/  
     - name: Selbst bauen
