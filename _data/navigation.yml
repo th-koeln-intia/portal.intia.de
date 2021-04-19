@@ -12,12 +12,10 @@
   dropdown:
     - name: Idee
       link: /innovation/
-    - name: Basis Innovations-Koffer
-      link: /basic-case/  
-    - name: Erweiterter Innovations-Koffer
-      link: /maker-case/  
-    - name: Innovations-Labor
-      link: // 
+    - name: Kaufen
+      link: /buy/  
+    - name: Selbst bauen
+      link: /build/
 - name: Tools
   link: /tools/
   dropdown:
