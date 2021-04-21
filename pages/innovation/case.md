@@ -121,8 +121,8 @@ Elemente die gebaut werden mussten da sie in dieser Form nicht existieren.
 - Kiste
 - Keypad
 - <span style="color:red">Display</span>
- - <span style="color:red">E-Ink Bilderrahmen</span>
- - <span style="color:red">OLED</span>
+   - <span style="color:red">E-Ink Bilderrahmen</span>
+   - <span style="color:red">OLED</span>
 
 ### Zubehör
 - USB-Multi-Netzteil
