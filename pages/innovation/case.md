@@ -110,19 +110,19 @@ Im Ideal sollen so wenig DiY-Komponenten wie möglich hinzugefügt werden. Die n
 - Knopf komplex
 - Knöpfe einfach
 - Türkontakt
-- <span style="color:red">Steckdose 
-- Temperatursensor 
-- Erschütterungssensor 
-- Bewegungssensor </span>
+- <span style="color:red">Steckdose </span>
+- <span style="color:red">Temperatursensor </span>
+- <span style="color:red">Erschütterungssensor </span>
+- <span style="color:red">Bewegungssensor </span>
 
 #### Smart-Komponenten Eigenbau
 Elemente die gebaut werden mussten da sie in dieser Form nicht existieren.
 
 - Kiste
 - Keypad
-- <span style="color:red">Display
-- - E-Ink Bilderrahmen
-- - OLED</span>
+- <span style="color:red">Display</span>
+ - <span style="color:red">E-Ink Bilderrahmen</span>
+ - <span style="color:red">OLED</span>
 
 ### Zubehör
 - USB-Multi-Netzteil
