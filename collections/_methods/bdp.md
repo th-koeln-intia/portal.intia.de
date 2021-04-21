@@ -10,6 +10,7 @@ goal_intia: |
     Den Prototypisierungsprozess partizipativer gestalten, um den Partizipationsgrad der Teilnehmenden in einem sehr Technik-affinen Umfeld zu erhöhen und somit von der Problemdefinition zur Entwicklung von relevanten, kontextbezogenen Lösungen durch Ideen der Teilnehmenden mit Einbezug von Fachkräften überzugehen. Dieser Prozess wird auf den wesentlichsten Inhalten abstrahiert und spielerisch gestaltet, damit technische Lösungsideen co-kreativ gefunden werden können.
 goal_audience: |
     Mitentwickelnden: Technische Lösungsideen co-kreativ finden, Selbstwirksamkeit und Spaß erleben
+
     Fachkräfte: Mitentwickelnden dabei unterstützen technische Lösungsideen co-kreativ zu finden
 design_phases: |
     Ideenfindung, Prototypisierung
