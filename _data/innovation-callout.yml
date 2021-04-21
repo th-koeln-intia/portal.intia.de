@@ -6,7 +6,7 @@ items:
     description: >
       Was ist eigentlich der Innovationskoffer?
     call_to_action_name: Zum Innovations-Koffer
-    call_to_action_link: /inovation/
+    call_to_action_link: /case/
   - title: Kaufen
     icon: fa-stethoscope
     description: >

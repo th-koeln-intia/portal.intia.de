@@ -6,29 +6,22 @@ toc_title: Themen
 menubar_toc: true
 permalink: /case/
 ---
-# Der Innovationskoffer
+# Was ist der Innovations-Koffer?
 
-Wenn man zu beginn den Namen "Innovations-Koffer" hört hat wahrscheinlich jeder eine erste Vorstellung. Dennoch, wenn man genauer drüber nachdenkt werden die meisten nicht sicher sein was es mit diesem Koffer, der hier vorgestellt wird, auf sich hat.
-Die Bezeichnung "Koffer" weist eindeutig auf "Mobilität" hin. Dies stellt vermutlich niemand in Frage. Aber was hat es mit dem Begriff Innovation auf sich?
+Wenn man zu beginn den Namen "Innovations-Koffer" hört hat wahrscheinlich jeder eine erste Vorstellung. Dennoch, wenn man genauer drüber nachdenkt werden die meisten nicht sicher sein was es mit diesem Koffer auf sich hat.
+Mit dem Wort "Koffer" verbinden viele sicherlich "Mobilität". Dies stellt vermutlich niemand in Frage. Aber was hat es mit dem Begriff Innovation auf sich?
 
-Alternativ könnte der Koffer auch "Ideen-Helfer", "Kreativität-Box", "Alltags-Problem-Aufdecker" und so weiter heißen. Auch das gibt eine Idee, was der Koffer kann, liefert aber keine Lösung. Die Frage, was der Koffer, ist kann gar nicht so einfacher beantwortet werden. Was man aber beantworten kann ist, welche Idee hinter dem Koffer steht und, was er erreichen soll.
+Alternativ könnte der Koffer auch "Ideen-Helfer", "Kreativität-Box", "Alltags-Problem-Aufdecker" und so weiter heißen. Auch das gibt eine Idee, was der Koffer kann, liefert aber keine Lösung. Die Frage, was der Koffer, ist kann gar nicht so einfacher beantwortet werden. 
+Im Kern ist der Innovations-Koffer eine hochkomprimierte Tool-Box, die Personen unterschiedlichstem Alters und Kontextes unterstützt Ideen und Lösungen für den eigenen Alltag zu entwickeln. Dabei besteht der Koffer aus verschiedensten analogen und digitalen Helfern. Mit diesem Koffer sollen Menschen ermächtigt und niederschwellig an die Möglichkeiten moderner Technologien herangeführt werden.
 
+## Der Innovations-Koffer als Idee
+Die zugrunde liegende Idee hinter dem Innovation-Koffer ist partizipativ Probleme im Alltag aufzudecken, Ideen zu entwickeln, wie man diese Probleme lösen kann und am Ende diese Idee umzusetzen. Dies ist für sich nichts Ungewöhnliches und ist auch nicht das erste Mal, dass jemand genau das versucht. Es sind die zu Grunde liegenden Bedingungen die diesen Koffer herausstechen lässt:
 
-## Der Innovationskoffer
-Die zugrunde liegende Idee hinter dem Innovation-Koffer ist, idealerweise partizipativ, Probleme im Alltag aufzudecken, Ideen zu entwickeln, wie man diese Probleme lösen kann und am Ende diese Idee umzusetzen. Dies ist für sich nichts Ungewöhnliches und ist auch nicht das erste Mal, dass jemand genau das versucht. Es sind die zu Grunde liegenden Bedingungen die diesen Koffer herausstechen lässt:
-
-* Für jeden - man muss keine Fachperson sein. Fähigkeiten wie Programmieren, Handwerken oder andere klassische Fähigkeiten, die vielen Entwicklungsprozessen zugrunde liegen, sind nebensächlich. Entwickelt wurde der Innovations-Koffer interdisziplinär und mit Teilnehmer*innen mit unterschiedlichsten Vulnerabilitäten.
+* Für jeden - man muss keine Fachperson sein. Fähigkeiten wie Programmieren, Handwerken oder andere klassische Fähigkeiten, die vielen Entwicklungsprozessen zugrunde liegen, sind nebensächlich. Entwickelt wurde der Innovations-Koffer interdisziplinär und mit Teilnehmer*innen mit unterschiedlichsten Förderbedarfe.
 * Mobil - Ein Koffer kann überall mit hingenommen werden.
 * Offen - Der Koffer und die dazugehörigen Elemente wurden im Geiste des OpenSource entwickelt. Alle Eigenentwicklungen stehen nicht nur frei zur Verfügung. Jeder ist eingeladen mit zu Entwicklern - der Innovations-Koffer ist ein lebendiges Produkt, das jeder weiterentwickeln und verändern darf.
 * Kostengünstig - Was bringt die schönste Entwicklung wenn sie für die meisten Menschen unerschwinglich ist? Der Innovationskoffer wurde so zusammengestellt das er möglichst erschwinglich für die meisten ist. Jedes element ist begründet und sollte für den einen oder anderen die Komposition des Koffers zu teuer und in teilen nicht sinnvoll erscheinen kann dieser einfacher an die eigene Bedürfnisse angepasst werden.
 * Modularität - Bei der Zusammenstellung und Entwicklung wurde darauf gedachtet das Elemente austauschbar und der Koffer an sich erweiterbar ist. Somit ist der Innovations-Koffer hoch individualisierbar. Sollte der Bedarf entstehen an Elemente, die es nicht im Koffer gibt, ist es einfach diese selbstständig hinzuzufügen. Sind Elemente nicht mehr zu erwerben, so verweisen wir umfangreich auf Alternativen. Dies fördert ebenfalls die Langlebigkeit. (Der Modularität des Innovations-Koffers haben wir hier einen eigenen Abschnitt gewidmet)
-
-
-### Was ist also der Innovations-Koffer?
-Eine hochkomprimierte Tool-Box, die Personen unterschiedlichstem Alters und Kontextes unterstützt Ideen und Lösungen für den eigenen Alltag zu entwickeln. Dabei besteht der Koffer aus verschiedensten analogen und digitalen Helfern.
-Mit diesem Koffer werden Menschen ermächtigt und sanft an die Möglichkeiten moderner Technologien herangeführt.
-
-Erfahrt mehr in Arbeiten mit dem Koffer.
 
 ## Arbeit mit dem Koffer
 Im Innovationskoffer stecken unterschiedlichste Methoden um Unterstützung für die individuelle Ideenfindung zu geben. Hier findet ihr eine eine kurze Vorstellung einiger Elemente. Wenn ihr mehr dazu erfahren wollt findet ihr zu den Elementen auch Stories, die mehr über diese Erzählen.
@@ -58,7 +51,7 @@ Damit Interessierte aber nicht selbstständig jedes einzelne Element aussuchen m
 ### Basis Innovations-Koffer
 Der Basis-Koffer beinhaltet alle analogen Inhalte, die von INTIA entwickelt wurden, also die verschiedenen methodischen Artefakte, wie die Methodensammlung und Sets, wie das BDP. Des Weiteren umfangreiche Anleitungen und eine Reihe von Aufgaben. Diese können  genutzt werden, um eine schnelle selbstständige Einarbeitung durchzuführen, oder um Veranstaltungen durchzuführen.
 
-Außerdem befindet sich im Basis-Koffer ein grundlegendes Technik-Kit. Die Auswahl der Elemente ist dabei so kuratiert worden, dass eine gute Nutzung gefördert wird und zeitgleich möglichst wenige Elemente beiliegen. Dies fördert die Zugänglichkeit und vermeidet selten genutzt Zusatz-Hardware. Genau diese Eigenschaft ist typisch für die meisten edukativen Hardware-Sets. Der dominiert oft Quantität über Qualität bei der Auswahl der Technik-Elemente.
+Außerdem befindet sich im Basis-Koffer ein grundlegendes Technik-Kit. Die Auswahl der Elemente ist dabei so getroffen worden, dass eine gute Nutzung gefördert wird und zeitgleich möglichst wenige Elemente beiliegen. Dies fördert die Zugänglichkeit und vermeidet selten genutzt Zusatz-Hardware. Genau diese Eigenschaft ist typisch für die meisten edukativen Hardware-Sets. Die Priorität liegt hier auf jenen Technik-Elementen, die unerlässlich sind. Augenmerk liegt auf der Qualität, nicht auf der Quantität der Elemente.
 
 #### Abwandlungen:
 
@@ -82,7 +75,7 @@ Innovations-Labor - das Vorgehen und die Technik hinter dem Innovations-Koffer m
 
 
 ## Was steckt im Koffer?
-Dieser Abschnitt listet alle Elemente auf die in einem Innovations-Koffer zu finden sind. Im Bereich Technik werden einige Elemente separat aufgeführt die nicht Teil des Basis Innovations-Koffers sind. Aus diesem Grund sind diese Rot eingefärbt.
+Dieser Abschnitt listet alle Elemente auf die in einem Innovations-Koffer zu finden sind. Im Bereich Technik werden einige Elemente separat aufgeführt die nicht Teil des Basis Innovations-Koffers sind. Aus diesem Grund sind diese <span style="color:red">Rot</span> eingefärbt.
 
 ### Anleitungen und Aufgaben
 - Inhaltsliste
@@ -117,26 +110,26 @@ Im Ideal sollen so wenig DiY-Komponenten wie möglich hinzugefügt werden. Die n
 - Knopf komplex
 - Knöpfe einfach
 - Türkontakt
-- Steckdose 
+- <span style="color:red">Steckdose 
 - Temperatursensor 
 - Erschütterungssensor 
-- Bewegungssensor 
+- Bewegungssensor </span>
 
 #### Smart-Komponenten Eigenbau
 Elemente die gebaut werden mussten da sie in dieser Form nicht existieren.
 
 - Kiste
 - Keypad
-- Display
+- <span style="color:red">Display
 - - E-Ink Bilderrahmen
-- - OLED
+- - OLED</span>
 
 ### Zubehör
 - USB-Multi-Netzteil
 - e27-Fassung
 
 ## Modularität
-Personen und dessen Probleme sind vielseitig. Somit auch die Bedarfe und mögliche Lösungsansätze. Es ist somit unwahrscheinlich das ein Koffer alleine für einen Großteil aller Einsatzberiche gerüstet ist und zeitgleich umfangs-sparsam. Warum sollte eine sparsame Ausstattung angestrebt werden? Zum einen sollte der Preis nicht künstlich hochgetrieben werden. Zum anderen wirkt ein großer Umfang entgegen der Zugänglichkeit.
+Personen und dessen Probleme sind vielseitig. Somit auch die Bedarfe und mögliche Lösungsansätze. Es ist somit unwahrscheinlich das ein Koffer alleine für einen Großteil aller Einsatzberiche gerüstet ist und zeitgleich ideal gepackt ist. Warum sollte eine sparsame Ausstattung angestrebt werden? Zum einen sollte der Preis nicht künstlich hochgetrieben werden. Zum anderen wirkt ein großer Umfang entgegen der Zugänglichkeit.
 Es ist somit sinnvoll wenige Kern-Inhalte anzustreben und den Fokus auf eine einfache und schnelle Erweiterbarkeit zu legen. Aus diesem Grund ist die Modularisierung des Technik-Kits ein Kernaspekt.
 
 Aktuell wird dies über zwei Hauptsäulen erreicht: Fertiglösungen vor DiY-Hardware und "dumme" Hardware-Elemente. Die genauere Bedeutung wird im Folgenden aufgeschlüsselt.
@@ -166,4 +159,4 @@ Zusammenfassend kann gesagt werden, dass der modulare Charakter des Technik-Kits
 
 Dadurch, dass die "Inteligenz" auf der Seite des zentralen Mini-Computers liegt ist eine Erweiterung sehr einfach.
 
-Allerdings müssen gewisse Limitationen bedacht werden.
+Allerdings müssen dabei die genannten Limitationen bedacht werden.
