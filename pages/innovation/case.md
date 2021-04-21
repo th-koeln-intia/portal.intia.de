@@ -75,7 +75,7 @@ Innovations-Labor - das Vorgehen und die Technik hinter dem Innovations-Koffer m
 
 
 ## Was steckt im Koffer?
-Dieser Abschnitt listet alle Elemente auf die in einem Innovations-Koffer zu finden sind. Im Bereich Technik werden einige Elemente separat aufgeführt die nicht Teil des Basis Innovations-Koffers sind. Aus diesem Grund sind diese <span style="color:red">Rot</span> eingefärbt.
+Dieser Abschnitt listet alle Elemente auf die in einem Innovations-Koffer zu finden sind. Im Bereich Technik werden einige Elemente separat aufgeführt die nicht Teil des Basis Innovations-Koffers sind. Aus diesem Grund sind diese <span style="color:#FF0000">Rot</span> eingefärbt.
 
 ### Anleitungen und Aufgaben
 - Inhaltsliste
