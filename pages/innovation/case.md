@@ -38,22 +38,7 @@ BDP
 
 - Querverlinkung -
 
-<div class="columns is-multiline">
-    <div class="column is-12">
-        {% include pagination.html %}
-    </div>
-    {% for post in paginator.posts %}
-    <div class="column is-4">
-        {% include post-card.html %}
-    </div>
-    {% endfor %}
-    <div class="column is-12">
-        {% include pagination.html %}
-    </div>
-    <div class="column is-12">
-        {% include subscribe.html %}
-    </div>
-</div>
+        {% include latest-post.html %}
 
 ## Macht mit!
 ToDo: Aufforderung wie man am Koffer mit macht, wie man an der Seite mit macht und was es für Teilaufgaben gibt
