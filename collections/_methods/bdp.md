@@ -10,10 +10,7 @@ goal_intia: |
     Den Prototypisierungsprozess partizipativer gestalten, um den Partizipationsgrad der Teilnehmenden in einem sehr Technik-affinen Umfeld zu erhöhen und somit von der Problemdefinition zur Entwicklung von relevanten, kontextbezogenen Lösungen durch Ideen der Teilnehmenden mit Einbezug von Fachkräften überzugehen. Dieser Prozess wird auf den wesentlichsten Inhalten abstrahiert und spielerisch gestaltet, damit technische Lösungsideen co-kreativ gefunden werden können.
 goal_audience: |
     Mitentwickelnden: Technische Lösungsideen co-kreativ finden, Selbstwirksamkeit und Spaß erleben
-
     Fachkräfte: Mitentwickelnden dabei unterstützen technische Lösungsideen co-kreativ zu finden
-design_phases: |
-    Ideenfindung, Prototypisierung
 source: |
     INTIA; Synthese und Abwandlung von User Stories, User Journeys und Behaviour-Driven Development
 requirements: |
@@ -27,10 +24,6 @@ expected_results: |
     Form 
         Fotos von einem technischen Lösungsidee ("Das nervt mich..." → "Ich wünsche mir..." → "WENN... DANN... DAMIT")
     Pro Gruppe von Teilnehmenden mindestens drei selbst konzipierte Funktionen oder Verhalten eines Prototypen, belegt aus den bereitgestellten Karten und im Anschluss abfotografiert
-number_of_moderators: |
-    Geschätzt 1 Person, bis zu 15 TN, aber abhängig von der tatsächlichen Anzahl TN und deren Fähigkeiten (Umsetzung bei intra bonn 1:11 + 2 unterstützende Personen)
-social_form: |
-    Gruppenarbeit (bis zu 15 ME gleichzeitig) evtl. Kleingruppen (bis zu 5 ME) pro Tisch
 materials: |
     - Statische Whiteboard-Folie oder Whiteboard
     - Whiteboard-Stifte
@@ -58,15 +51,6 @@ duration: |
       description: |
         - Festhalten und Auswerten der Aussagen (1 Std)
         - Feedback für zukünftigen Iteration festhalten (1 Std)
-risks_and_opportunities: |
-    - Die Auswahl an Karten kann zu überfordernd sein (Risiko)
-    - Durch die Anordnung der Karten kann beobachtet werden, wie die MEs über Lösungen nachdenken (Chance)
-iterations_and_adaptations: |
-    - Iteration: Version 0.9.0. am 2019-12-19 in der intra bonn
-    - Iteration: Version 1.0.0. am 2021-02-08 und 2021-02-22
-implementation_in: |
-    - Durchgeführt am 2019-12-19 mit WPK1 mit 10 MEs, 1 FK und 3 INTIAs (→ Beobachtungsnotizen)
-    - Durchgeführt am 2021-02-22 mit WPK3a mit 7 MEs, 1 FK und 2 INTIAs (→ Beobachtungsnotizen)
 ---
 # Beschreibung
 # Step-by-Step Guide
