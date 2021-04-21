@@ -1,7 +1,7 @@
 ---
 layout: method
 published: true
-title: Behaviour-Driven Prototyping
+title: Behaviour-Driven Prototyping 1.0.0.
 image: /assets/methods/hospitation.jpg
 rating: 3
 summary: |
