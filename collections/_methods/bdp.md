@@ -17,16 +17,12 @@ requirements: |
     * Austattung: Whiteboard oder Miroboard (optional), zwei größere Tische (a 60cmx140cm) zum Ausbreiten einer Papier-Rolle und das Verschieben von Karten, Smartphone zum Abfotografieren der Ergebnisse, Tablet (optional)
     * Inputs: Identifizierte Probleme/Bedarfe, Grobe Lösungsidee (optional)
 expected_results: |
-    
     Outputs: Technische Lösungsideen, "Medium-Fidelity-Prototypes"
-    
     Inhaltlich 
         Hinweise auf der Richtigkeit des Bedarfs (Validierung)
         Pro Gruppe 3 konkrete technische Lösungsideen zu einem Bedarf
-    
     Form 
         Fotos von einem technischen Lösungsidee ("Das nervt mich..." → "Ich wünsche mir..." → "WENN... DANN... DAMIT")
-    
     Pro Gruppe von Teilnehmenden mindestens drei selbst konzipierte Funktionen oder Verhalten eines Prototypen, belegt aus den bereitgestellten Karten und im Anschluss abfotografiert
 materials: |
     * Statische Whiteboard-Folie oder Whiteboard
