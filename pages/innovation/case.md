@@ -4,7 +4,6 @@ layout: page
 show_sidebar: false
 toc_title: Themen
 menubar_toc: true
-callouts: case-callout
 permalink: /case/
 ---
 # Was ist der Innovations-Koffer?
