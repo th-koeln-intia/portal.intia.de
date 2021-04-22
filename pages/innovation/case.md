@@ -39,7 +39,7 @@ BDP
 
 - Querverlinkung -
 
-         {% include post-card.html %}
+         {% include post.html %}
 
 ## Macht mit!
 ToDo: Aufforderung wie man am Koffer mit macht, wie man an der Seite mit macht und was es für Teilaufgaben gibt
