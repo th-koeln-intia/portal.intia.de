@@ -1,57 +1,58 @@
 ---
 layout: method
 published: true
-title: Behaviour-Driven Prototyping
+title: Behaviour-Driven Prototyping 1.0.0.
 image: /assets/methods/hospitation.jpg
 rating: 3
 summary: |
-    Eine Hospitation ist ein Besuch eines Außenstehenden in einer Einrichtung, Firma oder Behörde. Der Hospitant (Gast) soll dabei deren Arbeit kennenlernen oder begutachten bzw. arbeitet selbst probeweise mit. Je nach Art der Hospitation kann eine Ähnlichkeit zum Praktikum bestehen.
+    Ein co-kreativer Prozess, um technische Lösungsideen niedrigschwellig zu prototypisieren.
 goal_intia: |
-    Als INTIA MA beobachte ich die ZG in einem für unsere Recherche relevanten Umfeld/bei einer relevanten Tätigkeit um ihre Motivation, ihr Verhalten und ihre Tätigkeiten sowie das entsprechende Ecosystem entsprechend unserer Research Frage zu verstehen.
+    Den Prototypisierungsprozess partizipativer gestalten, um den Partizipationsgrad der Teilnehmenden in einem sehr Technik-affinen Umfeld zu erhöhen und somit von der Problemdefinition zur Entwicklung von relevanten, kontextbezogenen Lösungen durch Ideen der Teilnehmenden mit Einbezug von Fachkräften überzugehen. Dieser Prozess wird auf den wesentlichsten Inhalten abstrahiert und spielerisch gestaltet, damit technische Lösungsideen co-kreativ gefunden werden können.
 goal_audience: |
-    Als TN lernt die Zielgruppe uns in ihrem gewohnten Umfeld und in einem gewohnten Setting kennen und bekommt die Chance, sich als Experten ihrer selbst zu positionieren, indem sie uns ihre Tätigkeiten erklärt.
+    Mitentwickelnden: Technische Lösungsideen co-kreativ finden, Selbstwirksamkeit und Spaß erleben
+    Fachkräfte: Mitentwickelnden dabei unterstützen technische Lösungsideen co-kreativ zu finden
 source: |
-    Lehrbuch (SD): Participant Approach Research: "Participant Observation" & "Contextual Interviews" Bezug: Ethnografische Recherchemethoden
+    INTIA; Synthese und Abwandlung von User Stories, User Journeys und Behaviour-Driven Development
 requirements: |
-    In den Räumlichkeiten, in welchen hospitiert werden soll, ist genug Platz für weitere Personen und die Hospitierenden behindern die Abläufe nicht
+    Austattung: Whiteboard oder Miroboard (optional), zwei größere Tische (a 60cmx140cm) zum Ausbreiten einer Papier-Rolle und das Verschieben von Karten, Smartphone zum Abfotografieren der Ergebnisse, Tablet (optional)
+    Inputs: Identifizierte Probleme/Bedarfe, Grobe Lösungsidee (optional)
 expected_results: |
-    Schriftlichen Gedächtnisprotokoll anhand eines Beobachtungsleitfadens, Idealerweise Ton- und Bildaufnahmen
-material:
-    - Beobachtungsleitfaden
-    - Stift und Papier für Notizen
-    - Tonaufnahmegerät
-    - Videokamera und Fotokamera (Smartphone)
-duration:
+    Outputs: Technische Lösungsideen, "Medium-Fidelity-Prototypes"
+    Inhaltlich 
+        Hinweise auf der Richtigkeit des Bedarfs (Validierung)
+        Pro Gruppe 3 konkrete technische Lösungsideen zu einem Bedarf
+    Form 
+        Fotos von einem technischen Lösungsidee ("Das nervt mich..." → "Ich wünsche mir..." → "WENN... DANN... DAMIT")
+    Pro Gruppe von Teilnehmenden mindestens drei selbst konzipierte Funktionen oder Verhalten eines Prototypen, belegt aus den bereitgestellten Karten und im Anschluss abfotografiert
+materials: |
+    - Statische Whiteboard-Folie oder Whiteboard
+    - Whiteboard-Stifte
+    - Prototyping-Karten (mehrfarbige)
+    - BDP-Felder (mehrfarbige)
+    - Flip-Chart-Papier (a 45cmx160cm)
+    - Edding-Stifte (2x)
+duration: |
     - name: Vorbereitung
-      duration: 3 Std
+      duration: ca 8-12 Std.
       description: |
-        Desk Research über die zu beobachtende Zielgruppe und die entsprechende Tätigkeit/das Umfeld
+        - Erstellen der Prototyping-Karten (ca 8 Std)
+        - Erstellen der BDP-Felder (ca 4 Std)
+        - Sortieren der Karten und Felder (ca. 20 Minuten)
+        - Ggf. Verschicken der Karten an die Einrichtung (4 Std.)
     - name: Durchführung
-      duration: X Std
+      duration: ca 2 Std. → kann in mehreren Terminen (bspw 2 oder 3) stattfinden
       description: |
-        Erstellen eines Beobachtungsleitfadens
+        - Verteilung des "Spielbretts" und den Prototyping-Karten (15 Minuten)
+        - Gemeinsames Durchführen der Methode anhand eines bekannten Beispiels (1 Std.)
+        - MEs führen eigenständig Methode durch (1 Std.)
+        - Einsammeln der Materialien und Feedbackrunde (15 Minuten)
     - name: Nachbearbeitung
-      duration: 5 Std
+      duration: ca 2 Std.
       description: |
-        Sichten des Materials, Erstellen des Protokolls, Auswertung
+        - Festhalten und Auswerten der Aussagen (1 Std)
+        - Feedback für zukünftigen Iteration festhalten (1 Std)
 ---
 # Beschreibung
-Fokus auf die Menschen »Research is crucial in service design, as it helps a design team to move beyond assumption.« (Stickdorn, Hormess, Lawrence, Schneider: This Is Service Design Methods: A Companion to This Is Service Design Doing, O'Reilly Media, 2018, S. 98)
-
-Qualitative Recherche hilft dabei das "warum" zu verstehen, während quantitative Recherche zum Was uns wie verhilft
-
-Research Topics könne variieren. Hier war es: Das Ecosytsem verstehen und erste Einblicke zu bekommen um weitere Research Quesrtions und Topics formulieren zu können.
-
-»Design research is based in user/human-centered design and usually includes ethnographic research methods.« Stickdorn, Hormess, Lawrence, Schneider: This Is Service Design Methods: A Companion to This Is Service Design Doing, O'Reilly Media, 2018, S. 98)
-
-Research Frage: »Wie sieht der Alltag bei der intra bonn aus und welche Fragen können wir uns hinsichtlich des Ablaufes Vorort stellen?«
-
-»"Actions speaker louder than words" is a common saying, and indeed you often observe that people behave differently than they say they would.« ((Stickdorn, Hormess, Lawrence, Schneider: This Is Service Design Methods: A Companion to This Is Service Design Doing, O'Reilly Media, 2018, S. 107)
-
-»Researchers immerse themselves in the lives of 
-
-Als Expertenteam nehmen wir die TN als Zentrum unseres Tuns wahr und gehen nicht von Annahmen über die ZG aus sondern sehen sie als Experten ihrer selbst.
-
 # Step-by-Step Guide
 # Gestaltungskriterien
 # Erfolgskriterien
