@@ -28,14 +28,14 @@ expected_results: |
         Fotos von einem technischen Lösungsidee ("Das nervt mich..." → "Ich wünsche mir..." → "WENN... DANN... DAMIT")
     
     Pro Gruppe von Teilnehmenden mindestens drei selbst konzipierte Funktionen oder Verhalten eines Prototypen, belegt aus den bereitgestellten Karten und im Anschluss abfotografiert
-materials: |
+materials:
     - Statische Whiteboard-Folie oder Whiteboard
     - Whiteboard-Stifte
     - Prototyping-Karten (mehrfarbige)
     - BDP-Felder (mehrfarbige)
     - Flip-Chart-Papier (a 45cmx160cm)
     - Edding-Stifte (2x)
-duration: |
+duration:
     - name: Vorbereitung
       duration: ca 8-12 Std.
       description: |
