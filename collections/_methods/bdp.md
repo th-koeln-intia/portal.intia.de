@@ -2,8 +2,8 @@
 layout: method
 published: true
 title: Behaviour-Driven Prototyping 1.0.0.
-image: /assets/methods/Behaviour-Driven-Prototyping.jpg
-rating: 3
+image: /assets/methods/bdp.jpg
+rating: 5
 summary: |
     Ein co-kreativer Prozess, um technische Lösungsideen niedrigschwellig zu prototypisieren.
 goal_intia: |
@@ -14,8 +14,8 @@ goal_audience: |
 source: |
     INTIA; Synthese und Abwandlung von User Stories, User Journeys und Behaviour-Driven Development
 requirements: |
-    Austattung: Whiteboard oder Miroboard (optional), zwei größere Tische (a 60cmx140cm) zum Ausbreiten einer Papier-Rolle und das Verschieben von Karten, Smartphone zum Abfotografieren der Ergebnisse, Tablet (optional)
-    Inputs: Identifizierte Probleme/Bedarfe, Grobe Lösungsidee (optional)
+    * Austattung: Whiteboard oder Miroboard (optional), zwei größere Tische (a 60cmx140cm) zum Ausbreiten einer Papier-Rolle und das Verschieben von Karten, Smartphone zum Abfotografieren der Ergebnisse, Tablet (optional)
+    * Inputs: Identifizierte Probleme/Bedarfe, Grobe Lösungsidee (optional)
 expected_results: |
     
     Outputs: Technische Lösungsideen, "Medium-Fidelity-Prototypes"
@@ -29,12 +29,12 @@ expected_results: |
     
     Pro Gruppe von Teilnehmenden mindestens drei selbst konzipierte Funktionen oder Verhalten eines Prototypen, belegt aus den bereitgestellten Karten und im Anschluss abfotografiert
 materials: |
-    - Statische Whiteboard-Folie oder Whiteboard
-    - Whiteboard-Stifte
-    - Prototyping-Karten (mehrfarbige)
-    - BDP-Felder (mehrfarbige)
-    - Flip-Chart-Papier (a 45cmx160cm)
-    - Edding-Stifte (2x)
+    * Statische Whiteboard-Folie oder Whiteboard
+    * Whiteboard-Stifte
+    * Prototyping-Karten (mehrfarbige)
+    * BDP-Felder (mehrfarbige)
+    * Flip-Chart-Papier (a 45cmx160cm)
+    * Edding-Stifte (2x)
 duration: |
     - name: Vorbereitung
       duration: ca 8-12 Std.
