@@ -27,19 +27,7 @@ Die zugrunde liegende Idee hinter dem Innovation-Koffer ist partizipativ Problem
 ## Arbeit mit dem Koffer
 Im Innovationskoffer stecken unterschiedlichste Methoden um Unterstützung für die individuelle Ideenfindung zu geben. Hier findet ihr eine eine kurze Vorstellung einiger Elemente. Wenn ihr mehr dazu erfahren wollt findet ihr zu den Elementen auch Stories, die mehr über diese Erzählen.
 
-Methodensammlung
-
-- Querverlinkung -
-
-Escape Game
-
-- Querverlinkung -
-
-BDP
-
-- Querverlinkung -
-
-         {% include latest-posts.html %}
+{% include latest-posts.html %}
 
 ## Macht mit!
 ToDo: Aufforderung wie man am Koffer mit macht, wie man an der Seite mit macht und was es für Teilaufgaben gibt
