@@ -53,8 +53,7 @@ duration:
         - Feedback für zukünftigen Iteration festhalten (1 Std)
 ---
 # Beschreibung
-Die INTIA-Methode "Behaviour-Driven Prototyping" ermöglicht es anhand eines 
-[Prototyping-Kartensets](https://cides01.gm.fh-koeln.de/confluence/pages/viewpage.action?pageId=25335850) 
+Die INTIA-Methode "Behaviour-Driven Prototyping" ermöglicht es anhand eines Prototyping-Kartensets 
 (eine Art Spiel- oder Methodenkarten) und BDP-Felder technische Funktionen von bestimmten Technologien zu visualisieren. 
 Die Struktur folgt die sogenannte **User Story** (North, 2019; Adzic & Evans 2015) nach dem Prinzip 
 "Als ... möchte ich ..., damit ..." oder in Form von **User Journey** nach der Struktur "Ich wünsche mir" dass, ... 
@@ -65,7 +64,7 @@ Diese Struktur verfolgt den Ziel vom Problemraum der **Bedarfe** zu dem Lösungr
 entstandenen Lösungs-Ideen mit den Karten zu sehen sind. Dies soll helfen immer wieder aufzufrischen welche 
 "Nervsituation" als Anfangspunkt und das "DAMIT" um das Wozu deutlich zu haben, damit die Relevanz klar ist. 
 So sieht das für die MEs als "Ideen-Schmiede" getaufte 
-[BDP-Feld](https://cides01.gm.fh-koeln.de/confluence/pages/viewpage.action?pageId=33359260) aus:
+BDP-Feld aus:
 
 ![alt text](/assets/methods/ideenschmiede.jpg)
 
@@ -96,9 +95,7 @@ aufgestellt, bei der die MEs im ersten Schritt mithilfe eines Moderators ein Bei
 damit die Vorgehensweise verstanden wird, und im Anschluss sollen die MEs selber auf den Tischen tätig werden und 
 anfangen mit den Prototypisierungs-Karten zu „prototypisieren". Somit sollen Ideen für funktionalen Anforderungen 
 eines Prototyps aufgestellt werden, und gemeinsam ausdiskutiert werden, ob diese sinnig oder "tauglich" sind. 
-Dies erfordert kein tiefes technisches Know-How und ermöglicht anhand von Papier-Sensoren, -Aktuatoren usw. 
-(siehe [Fotos auf Sciebo](https://th-koeln.sciebo.de/apps/files/?dir=/INTIA/Unsere%20Art%20mit%20Partnern%20zu%20Kooperieren/intra%20bonn/Workshop-Termine/Workshop%202019-12-19&fileid=405816888) 
-und [Miro-Board](https://miro.com/app/board/o9J_ldo8ckI=/)) eine niedrigschwellige Ideenfindung für sogenannte 
+Dies erfordert kein tiefes technisches Know-How und ermöglicht anhand von Papier-Sensoren, -Aktuatoren usw. eine niedrigschwellige Ideenfindung für sogenannte 
 *Low-Fidelity-Prototypes* (Dam & Theo, 2019) oder "Medium-Fidelity-Prototypes". 
 Das Haptische wird dadurch unterstützt, dass Karten hin und her geschoben werden können. 
 Am Ende hat man einen zwei-teiligen Prototypisierungs-Prozess:
@@ -111,8 +108,7 @@ Am Ende hat man einen zwei-teiligen Prototypisierungs-Prozess:
 
 ![alt text](/assets/methods/ideenschmiede-2.jpg)
 
-Diese "begreifbare" Interaktion funktoniert mit unterschiedlichen Papierkarten 
-(später [Technik-Blöcke](https://cides01.gm.fh-koeln.de/confluence/pages/viewpage.action?pageId=17764013)), 
+Diese "begreifbare" Interaktion funktoniert mit unterschiedlichen Papierkarten, 
 auf welche entsprechende Icons und Bezeichnungen gedruckt sind, damit diese mit Bild und einfache Texte verstanden werden.
 
 # Step-by-Step Guide
@@ -125,15 +121,14 @@ Diese setzt voraus, dass konkrete **Bedarfe** bei der Bedarfserhebung erkannt un
 2.  Raum und Gruppensetting vorbereiten. (5 Minuten)
 
     * zwei Tische werden vorbereitet.
-    * auf Tisch A wird die Erfinder-Rolle ausgeweitet, auf Tisch B die noch verpackten 
-        [BDPrototyping-Karten 1.0.0.](https://cides01.gm.fh-koeln.de/confluence/pages/viewpage.action?pageId=25335850) gelegt.
+    * auf Tisch A wird die Erfinder-Rolle ausgeweitet, auf Tisch B die noch verpackten BDPrototyping-Karten 1.0.0. gelegt.
     * auf Tisch B werden die gelben Verhalten-Karten ausgepackt und auf dem Tisch verteilt.
     * (falls Remote, iPad samt Stativ auflegen, damit der Tisch gefilmt wird)
     
 3.  Das "Das nervt..."- und "Ich wünsche mir..."-Feld werden auf der Erfinder-Rolle nebeneinander gelegt (5 Minuten)
 4.  Die Nervsituation wird mit den MEs abgestimmt und validiert, ob das so stimmt (Bedarfe wurden schon vorher erhoben). (5 Minuten)
 5.  Danach werden erste Lösungsvorschläge anhand vom "Verhalten" des Systems 
-    (siehe [Verhalten-Karten](https://cides01.gm.fh-koeln.de/confluence/pages/viewpage.action?pageId=25335850#BDPrototyping-Karten1.0.0.-Verhalten-AbstrakteFunktion)) 
+    (siehe Verhalten-Karten) 
     auf dem "Ich wünsche mir..."-Feld gelegt (5 bis 10 Minuten):
     
     * Es wird gefragt: "Was wünscht Ihr euch, damit die nervige Situation nicht mehr nervt? Wie würdet ihr das lösen?"
@@ -170,8 +165,8 @@ Diese setzt voraus, dass konkrete **Bedarfe** bei der Bedarfserhebung erkannt un
 
 # Gestaltungskriterien
 
-- [BDPrototyping-Karten 1.0.0.](https://cides01.gm.fh-koeln.de/confluence/pages/viewpage.action?pageId=25335850)
-- [BDP-Felder 1.0.0.](https://cides01.gm.fh-koeln.de/confluence/pages/viewpage.action?pageId=33359260)
+- siehe BDPrototyping-Karten 1.0.0.
+- BDP-Felder 1.0.0.
 
 # Erfolgskriterien
 
@@ -180,19 +175,9 @@ Diese setzt voraus, dass konkrete **Bedarfe** bei der Bedarfserhebung erkannt un
 
 # Auswertung
 
-Leichte Abwandlung zu 
-[Behaviour-Driven Prototyping 0.9.0.](https://cides01.gm.fh-koeln.de/confluence/pages/viewpage.action?pageId=11797130)
+Leichte Abwandlung zu Behaviour-Driven Prototyping 0.9.0.
 
 # Referenzen
-
-## Interne Referenzen
-
--   [Workshop-Termine intra Bonn](https://cides01.gm.fh-koeln.de/confluence/display/INTIA/Workshop-Termine+intra+Bonn)
--   [2019-12-19 Ideenvorstellung / Prototyping](https://cides01.gm.fh-koeln.de/confluence/pages/viewpage.action?pageId=12910755)
--   [Rufsystem](https://cides01.gm.fh-koeln.de/confluence/display/INTIA/Rufsystem)
--   [Vorschlag für die Vorgehensweise bei der Intra](https://cides01.gm.fh-koeln.de/confluence/pages/viewpage.action?pageId=17761709)
-
-## Externe Referenzen
 
 -   Tharayil, R. (2018, April 4). Behavior-Driven Development: Simplifying the Complex Problem Space. Retrieved March 17, 2020, from <https://www.solutionsiq.com/resource/blog-post/behavior-driven-development-simplifying-the-complex-problem-space/>
 -   North, D. (n.d.). BDDWiki: BehaviourDrivenDevelopment. Retrieved from <https://behaviourdriven.org/>
