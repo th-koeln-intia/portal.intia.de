@@ -2,7 +2,7 @@
 layout: method
 published: true
 title: Behaviour-Driven Prototyping 1.0.0.
-image: /assets/methods/bdp.pdf
+image: /assets/methods/bdp.jpg
 rating: 5
 summary: |
     Ein co-kreativer Prozess, um technische Lösungsideen niedrigschwellig zu prototypisieren.
