@@ -74,7 +74,7 @@ Die Karten sind hierzu in **Technologie-, Verhalten-** und **Kommando-Karten** u
 ![Verhalten](/assets/methods/behaviour-cards.jpg)
 ![Kommando](/assets/methods/command-cards.jpg)
 
-Die Technologie-Karten zeigen die Sensoren (Trigger) wie Dreh- oder Kippschalter, die etwas erkennen sowie 
+Diee Technologie-Karten zeigen die Sensoren (Trigger) wie Dreh- oder Kippschalter, die etwas erkennen sowie 
 die Aktuatoren wie Buzzer, Timer, die etwas ausführen. Dazu sind auch ermöglichende Technologien wie Kamera, 
 Chat-Bot, zusammengefasst, die nicht direkt einen Sensor oder Aktuator zugeordnet werden können.
 
