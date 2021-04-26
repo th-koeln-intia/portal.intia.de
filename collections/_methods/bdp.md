@@ -64,10 +64,16 @@ Diese Struktur verfolgt den Ziel vom Problemraum der **Bedarfe** zu dem Lösungr
 "Alltagshilfen" visuell zu überführen (Tharayil, 2018), sodass auf ein Blick das Problem so wie die daraus 
 entstandenen Lösungs-Ideen mit den Karten zu sehen sind. Dies soll helfen immer wieder aufzufrischen welche 
 "Nervsituation" als Anfangspunkt und das "DAMIT" um das Wozu deutlich zu haben, damit die Relevanz klar ist. 
-So sieht das als "Ideen-Schmiede" für die MEs getaufte 
+So sieht das für die MEs als "Ideen-Schmiede" getaufte 
 [BDP-Feld](https://cides01.gm.fh-koeln.de/confluence/pages/viewpage.action?pageId=33359260) aus:
 
+![alt text](/assets/methods/ideenschmiede.jpg)
+
 Die Karten sind hierzu in **Technologie-, Verhalten-** und **Kommando-Karten** unterteilt:
+
+![Technologie](/assets/methods/technology-cards.jpg)
+![Verhalten](/assets/methods/behaviour-cards.jpg)
+![Kommando](/assets/methods/command-cards.jpg)
 
 Die Technologie-Karten zeigen die Sensoren (Trigger) wie Dreh- oder Kippschalter, die etwas erkennen sowie 
 die Aktuatoren wie Buzzer, Timer, die etwas ausführen. Dazu sind auch ermöglichende Technologien wie Kamera, 
@@ -99,7 +105,11 @@ Am Ende hat man einen zwei-teiligen Prototypisierungs-Prozess:
 
 *Teil 1 - Problem und Erste Lösungsideen als Verhalten oder Technologie*
 
+![alt text](/assets/methods/ideenschmiede-1.jpg)
+
 *Teil 2 - WENN... DANN... DAMIT...*
+
+![alt text](/assets/methods/ideenschmiede-2.jpg)
 
 Diese "begreifbare" Interaktion funktoniert mit unterschiedlichen Papierkarten 
 (später [Technik-Blöcke](https://cides01.gm.fh-koeln.de/confluence/pages/viewpage.action?pageId=17764013)), 
