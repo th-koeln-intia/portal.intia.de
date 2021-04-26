@@ -166,7 +166,7 @@ Diese setzt voraus, dass konkrete **Bedarfe** bei der Bedarfserhebung erkannt un
 # Gestaltungskriterien
 
 - siehe BDPrototyping-Karten 1.0.0.
-- BDP-Felder 1.0.0.
+- siehe BDP-Felder 1.0.0.
 
 # Erfolgskriterien
 
