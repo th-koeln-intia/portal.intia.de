@@ -68,11 +68,11 @@ BDP-Feld aus:
 
 ![alt text](/assets/methods/ideenschmiede.jpg)
 
-Die Karten sind hierzu in **Technologie-, Verhalten-** und **Kommando-Karten** unterteilt:
+Die Karten sind hierzuu in **Technologie-, Verhalten-** und **Kommando-Karten** unterteilt:
 
-![Technologie](/assets/methods/technology-cards.jpg)
-![Verhalten](/assets/methods/behaviour-cards.jpg)
-![Kommando](/assets/methods/command-cards.jpg)
+<img src="/assets/methods/technology-cards.jpg" alt="Technologie" width="600"/>
+<img src="/assets/methods/behaviour-cards.jpg" alt="Verhalten" width="600"/>
+<img src="/assets/methods/command-cards.jpg" alt="Kommando" width="600"/>
 
 Diee Technologie-Karten zeigen die Sensoren (Trigger) wie Dreh- oder Kippschalter, die etwas erkennen sowie 
 die Aktuatoren wie Buzzer, Timer, die etwas ausführen. Dazu sind auch ermöglichende Technologien wie Kamera, 
