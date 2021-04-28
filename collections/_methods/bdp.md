@@ -68,11 +68,11 @@ BDP-Feld aus:
 
 ![alt text](/assets/methods/ideenschmiede.jpg)
 
-Die Karten sind hierzu in **Technologie-, Verhalten-** und **Kommando-Karten** unterteilt:
+Die Karten sind hierzuu in **Technologie-, Verhalten-** und **Kommando-Karten** unterteilt:
 
-![Technologie](/assets/methods/technology-cards.jpg)
-![Verhalten](/assets/methods/behaviour-cards.jpg)
-![Kommando](/assets/methods/command-cards.jpg)
+<img src="/assets/methods/technology-cards.jpg" alt="Technologie" width="600"/>
+<img src="/assets/methods/behaviour-cards.jpg" alt="Verhalten" width="600"/>
+<img src="/assets/methods/command-cards.jpg" alt="Kommando" width="600"/>
 
 Diee Technologie-Karten zeigen die Sensoren (Trigger) wie Dreh- oder Kippschalter, die etwas erkennen sowie 
 die Aktuatoren wie Buzzer, Timer, die etwas ausführen. Dazu sind auch ermöglichende Technologien wie Kamera, 
@@ -95,7 +95,8 @@ aufgestellt, bei der die MEs im ersten Schritt mithilfe eines Moderators ein Bei
 damit die Vorgehensweise verstanden wird, und im Anschluss sollen die MEs selber auf den Tischen tätig werden und 
 anfangen mit den Prototypisierungs-Karten zu „prototypisieren". Somit sollen Ideen für funktionalen Anforderungen 
 eines Prototyps aufgestellt werden, und gemeinsam ausdiskutiert werden, ob diese sinnig oder "tauglich" sind. 
-Dies erfordert kein tiefes technisches Know-How und ermöglicht anhand von Papier-Sensoren, -Aktuatoren usw. eine niedrigschwellige Ideenfindung für sogenannte 
+Dies erfordert kein tiefes technisches Know-How und ermöglicht anhand von Papier-Sensoren, -Aktuatoren usw. eine niedrigschwellige 
+Ideenfindung für sogenannte 
 *Low-Fidelity-Prototypes* (Dam & Theo, 2019) oder "Medium-Fidelity-Prototypes". 
 Das Haptische wird dadurch unterstützt, dass Karten hin und her geschoben werden können. 
 Am Ende hat man einen zwei-teiligen Prototypisierungs-Prozess:
@@ -136,7 +137,7 @@ Diese setzt voraus, dass konkrete **Bedarfe** bei der Bedarfserhebung erkannt un
     * Nachdem alle Lösungsvorschläge auf dem "Ich wünsche mir..."-Feld gelegt wurden, wird pro Verhalten-Karte abgefragt "Wieso habt ihr diese Karte gewählt?" Alle Erklärungen werden auf eckige Sprechblasen mit Edding geschrieben und neben der entsprechenden Verhalten-Karte gelegt.
     * Bitte Foto eures Ergebnisses machen und uploaden.
     
-6.  Die MEs werden aufgefordert die auf Tisch B restlichen gelben Verhalten-Karten zu bündeln, zur Seite zu schieben, und die grünen [Technologie-Karten](https://cides01.gm.fh-koeln.de/confluence/pages/viewpage.action?pageId=25335850#BDPrototyping-Karten1.0.0.-Technologie-Konkretes%22Ding%22) auf Tisch B zu verteilen. (20 Minuten)
+6.  Die MEs werden aufgefordert die auf Tisch B restlichen gelben Verhalten-Karten zu bündeln, zur Seite zu schieben, und die grünen Technologie-Karten auf Tisch B zu verteilen. (20 Minuten)
 
     * "Diese Karten sagen aus 'womit' etwas passiert. Im Prinzip heißt es 'durch welche Technologie etwas passiert'. Dieses 'etwas' sieht ihr in den gelben Verhalten-Karten links." (5 Minuten)
     * "Welche dieser grünen Technologie-Karten passen zu den gelben Verhalten-Karten auf dem anderen Tisch? Bespricht das untereinander für 5 Minuten und legt die Karten, die sich richtig für euch anfühlen auf Tisch A, wo die gelben Karten sind, die ihr ausgewählt habt." (5 Minuten)
@@ -150,7 +151,7 @@ Diese setzt voraus, dass konkrete **Bedarfe** bei der Bedarfserhebung erkannt un
     * "Platziert bitte die Technologie- und Verhalten-Karten auf dem 'WENN... DANN...'-Feld sowie es sich richtig für euch anfühlt. Wichtig hierbei ist, dass die grünen und gelbe Karten zueinander passen." (3 Minuten)
     * "Was wollt ihr DAMIT erreichen? Welcher Nutzen soll diese Idee haben? Nimmt einer der Sprechblasen, die ihr aufgeschrieben habt. Wo würdet ihr das legen?" (2 Minuten)
 
-9.  Die MEs werden aufgefordert die auf Tisch B restlichen grünen Technologie-Karten zu bündeln, zur Seite zu schieben, und die roten [Kommando-Karten](https://cides01.gm.fh-koeln.de/confluence/pages/viewpage.action?pageId=25335850#BDPrototyping-Karten1.0.0.-Kommando-Nutzerl%C3%B6stZustand/Aktion/Ereignisaus) auf Tisch B zu verteilen. (10 bis 15 Minuten)
+9.  Die MEs werden aufgefordert die auf Tisch B restlichen grünen Technologie-Karten zu bündeln, zur Seite zu schieben, und die roten Kommando-Karten auf Tisch B zu verteilen. (10 bis 15 Minuten)
 
     * "Was genau soll passieren? Wie genau soll es sich verhalten? Welche dieser roten Kommando-Karten passen zu den gelben Verhalten-Karten auf Tisch A? Ihr könnt ein oder mehrere rote Karten **einer** gelben Karte zuordnen. Jede und Jeder von euch kann eigene Vorschläge einbringen, auch wenn sie doppelt vorkommen." (5 Minuten)
     * Bsp: "WENN der Timer erinnern in 2 Stunden DANN klingelt der Buzzer DAMIT wir wissen wann die Wäsche fertig ist."
