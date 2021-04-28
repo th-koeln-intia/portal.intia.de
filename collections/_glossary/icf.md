@@ -2,7 +2,7 @@
 title: ICF
 published: true
 layout: page
-description: |
+abstract: |
     Rahmenwerk, das eine einheitliche Sprache und konzeptionelle Grundlage für die Definition und Messung von Gesundheit und Behinderung liefert.
 ---
 
