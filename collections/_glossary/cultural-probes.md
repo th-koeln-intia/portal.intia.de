@@ -2,11 +2,6 @@
 title: Cultural Probes
 published: true
 layout: page
-synonyms:
-    - Alltagsunterstützung
-    - Bewältigung von Alltagsaufgaben
-    - Alltagsbegleitung
-    - alltägliche Lebensführung
 description: |
     Methode zur Erhebung von nutzerorientierten Daten in der Bedarfsermittlung, die von der Zielgruppe selbst im Alltag dokumentiert und anschließend durch das Forschungsteam ausgewertet werden.
 ---

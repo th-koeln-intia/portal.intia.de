@@ -2,11 +2,6 @@
 title: Inklusion
 published: true
 layout: page
-synonyms:
-    - Alltagsunterstützung
-    - Bewältigung von Alltagsaufgaben
-    - Alltagsbegleitung
-    - alltägliche Lebensführung
 description: |
     Inklusion beschreibt den Ansatz, alle Menschen - also auch divers benachteiligte Menschen - am gesellschaftlichen Leben teilhaben zu lassen. Im Projekt INTIA bezieht sich dies auf die Teilhabe von divers benachteiligten jungen Menschen der Erziehungs- und Behindertenhilfe an Technikentwicklung.
 ---
