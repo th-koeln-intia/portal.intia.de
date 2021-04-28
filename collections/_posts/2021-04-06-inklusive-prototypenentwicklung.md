@@ -1,7 +1,7 @@
 ---
 title: "Inklusive Prototypenentwicklung mittels Behaviour-Driven Prototyping mit Jugendlichen mit Beeinträchtigung"
 published: true
-author: Alena Schmier
+author: Alena Schmier, Hanna Thielmann, Jan Seidler
 categories: News
 tags: news intia prototyping covid-19 inclusive behaviour-driven
 hero_image: /assets/images/posts/messenger.jpg
