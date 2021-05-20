@@ -1,5 +1,5 @@
 ---
-title: "Inklusive Prototypenentwicklung mittels Behaviour-Driven Prototyping mit Jugendlichen mit Beeinträchtigung"
+title: "Methoden einer inklusiven Prototypenentwicklung mit Jugendlichen mit Beeinträchtigung"
 published: true
 author: Alena Schmier, Hanna Thielmann, Jan Seidler
 categories: News
@@ -7,8 +7,8 @@ tags: news intia prototyping covid-19 inclusive behaviour-driven
 hero_image: /assets/images/posts/messenger.jpg
 image: /assets/images/posts/messenger.jpg
 ---
-Methoden einer inklusiven Prototypenentwicklung mittels [Behaviour-Driven-Prototyping](https://portal.intia.de/methods/bdp) mit 
-Jugendlichen mit Beeinträchtigung
+Methoden einer inklusiven Prototypenentwicklung mit Jugendlichen mit Beeinträchtigung
+
 Das INTIA Projekt strebt eine Technikentwicklung an, die Jugendliche aus dem Kontext der Behinderten- und Jugendhilfe partizipativ 
 mitgestalten. Es soll herausgefunden werden, welche digitalen bzw. technischen Hilfsmittel sich junge Menschen für ihren Alltag 
 tatsächlich wünschen. Doch wie kann so ein Prozess der partizipativen Technikentwicklung gelingen?
@@ -30,7 +30,7 @@ Der Prozess zur Entwicklung der Prototypen erfolgte in verschiedenen Phasen:
    geben, ist der Prozess nicht nur inhaltlich beendet worden, sondern auch auf einer Beziehungsebene. Mit Hilfe von 
    Punkten, die auf entsprechend vorgefertigte Smileys geklebt worden sind, konnte so eine Stimmungsabfrage eingeholt werden.  
    
-2. **Paper Function Mapping**  
+2. **Phase: Paper Function Mapping**  
    Zu Anfang ist mittels „Paper Function Mapping“ das technische Wissen der Jugendlichen ermittelt und erweitert worden. Mittels 
    bereits existierender Geräte (z.B. Bügeleisen, Stereoanlage) sollten abstraktere Überlegungen angestellt werden, um so zu 
    einer neuen Erfindung zu gelangen. Gleichzeitig wurden so die verschiedenen technischen Möglichkeiten vorgestellt. Die 
@@ -39,20 +39,20 @@ Der Prozess zur Entwicklung der Prototypen erfolgte in verschiedenen Phasen:
    Repräsentation des echten Geräts sind. Dadurch konnte eine Basis geschaffen werden, auf die das anschließende Prototyping aufbaut 
    und mögliche neue Ideen entwickelt werden können.  
 
-3. **Ideengenerierung auf Basis von "Was nervt?"**  
+3. **Phase: Ideengenerierung auf Basis von "Was nervt?"**  
    Um eine Ideengenerierung anzustoßen, ist die alltagspraktische Frage gestellt worden „Was nervt dich bei der Arbeit?“. 
    Hier hat einer der MEs die Aussage getroffen, dass es ihn nervt, wenn ständig Leute in die Küche kommen und seine Arbeit 
    unterbrechen, da dies seine Konzentration störe. Die eintretenden Personen würden meistens fragen, wo die Anleiter*innen 
    der beruflichen Qualifizierungsmaßnahme zu finden sind.  
    
-4. **Reflexionsgespräch der artikulierten Alltagsprobleme**  
+4. **Phase: Reflexionsgespräch der artikulierten Alltagsprobleme**  
    Diese getätigte Aussage ist im Reflexionsgespräch mit der im Prozess anwesenden Anleiterin und zwei INTIA Mitarbeiter\*innen aufgegriffen 
    worden, indem eruiert worden ist, wie dieses Problem behoben werden könnte. In jenem Gespräch ist deutlich geworden, dass die Anleiterin 
    in diesem abgeleiteten Bedarf auch einen Nutzen für andere MEs zum weiteren Gebrauch in Folgeeinrichtungen sieht. Eine mögliche Lösung 
    des artikulierten Problems (nämlich dass eintretende und nachfragende Personen die Konzentartion stören), kann hierbei das eigenständige 
    Rufen der Anleiter\*innen durch die Qualifikant*innen der Qualifizierungsmaßnahme sein.  
    
-5. **Prototypisierung und Validierung**  
+5. **Phase: Validierung**  
    Um herauszufinden, ob jener abgeleitete Bedarf auch für die anderen MEs als potenziell relevant erachtet wird, sollte dieser in einem 
    zweiten Termin, eine Woche später, auf Richtigkeit geprüft und der Gedanke in Zuge dessen mittels Behaviour-Driven Prototyping (BDP) 
    technisch spezifiziert werden. Das BDP beantwortet die Frage „Wie lassen sich technische Lösungsideen aus einem gegebenen Bedarf 
