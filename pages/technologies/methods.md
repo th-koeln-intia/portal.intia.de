@@ -4,6 +4,7 @@ subtitle: Übersicht über alle Methoden
 permalink: /methods/
 hero-height: is-low
 show_sidebar: false
+jekyll-hyperlink-glossary: false
 ---
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="../assets/js/radar.js"></script>
