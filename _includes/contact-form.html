@@ -1,51 +1,55 @@
-<div class="field">
+<form action="https://submit-form.com/ujaWfjyi">
+  <div class="field">
     <label class="label">Name</label>
     <div class="control has-icons-left">
-      <input class="input" type="text" placeholder="Name">
+      <input class="input" type="text" id="name" name="name" placeholder="Name" required>
       <span class="icon is-small is-left">
         <i class="fas fa-user"></i>
       </span>
     </div>
   </div>
-  
   <div class="field">
     <label class="label">E-Mail</label>
     <div class="control has-icons-left">
-      <input class="input" type="email" placeholder="E-Mail">
+      <input class="input" type="email" id="email" name="email" placeholder="E-Mail">
       <span class="icon is-small is-left">
         <i class="fas fa-envelope"></i>
       </span>
     </div>
   </div>
-  
   <div class="field">
     <label class="label">Thema</label>
     <div class="control">
       <div class="select">
-        <select>
-          <option>Sonstige</option>
-          <option>Plattform</option>
-          <option>Innovationskoffer</option>
-          <option>Methoden</option>
-          <option>Prototypen</option>
-          <option>Stories</option>
+        <select id="thema" name="thema">
+          <option value="Sonstige">Sonstige</option>
+          <option value="Plattform">Plattform</option>
+          <option value="Innovationskoffer">Innovationskoffer</option>
+          <option value="Methoden">Methoden</option>
+          <option value="Prototypen">Prototypen</option>
+          <option value="Stories">Stories</option>
         </select>
       </div>
     </div>
   </div>
-  
   <div class="field">
     <label class="label">Nachricht</label>
     <div class="control">
-      <textarea class="textarea" placeholder="Wie können wir dir helfen?"></textarea>
+      <textarea
+          class="textarea"
+          id="message"
+          name="message"
+          placeholder="Wie können wir dir helfen?"
+          required=""
+      ></textarea>
     </div>
   </div>
-  
   <div class="field is-grouped">
     <div class="control">
-      <button class="button is-link">Abschicken</button>
+      <button class="button is-link" type="submit">Abschicken</button>
     </div>
     <div class="control">
       <button class="button is-link is-light">Abbrechen</button>
     </div>
   </div>
+</form>
