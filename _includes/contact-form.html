@@ -44,6 +44,11 @@
       ></textarea>
     </div>
   </div>
+  <div class="checkbox">
+    <input type="checkbox" id="agree" name="privacy-policy" value="agreed" required oninvalid="this.setCustomValidity('Bitte dieses Feld anklicken, um fortzufahren')"
+           oninput="this.setCustomValidity('')">
+    <label for="agree">Ich stimme den <a href="https://formspark.io/legal/privacy-policy/">Datenschutzbestimmungen</a> zu</label><br><br>
+  </div>
   <div class="field is-grouped">
     <div class="control">
       <button class="button is-link" type="submit">Abschicken</button>
