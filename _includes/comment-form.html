@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<hr size=10>
 <head>
   <meta charset="utf-8"/>
   <title>Comment Section</title>
@@ -24,20 +25,20 @@
 
         <div class="section">
           <label class="field prepend-icon">
-            <input type="text" name="fields[name]" id="name" class="gui-input" placeholder="(Optional) Name eingeben..." >
+            <input type="text" name="fields[name]" id="name" class="input is-primary" placeholder="(Optional) Name eingeben..." >
             <span class="field-icon"><i class="fa fa-user"></i></span>
           </label>
         </div><!-- end section -->
 
         <div class="section">
           <label class="field prepend-icon">
-            <textarea class="gui-textarea" id="message" name="fields[message]" placeholder="Kommentieren..." required></textarea>
+            <textarea class="textarea is-primary" id="message" name="fields[message]" placeholder="Kommentieren..." required></textarea>
             <span class="field-icon"><i class="fa fa-comments"></i></span>
           </label>
         </div><!-- end section -->
 
         <div className="row button-row">
-          <button type="submit" className="waves-effect waves-light btn">Kommentar jetzt ablegen!</button>
+          <button type="submit" class="button">Kommentar jetzt ablegen!</button>
         </div>
     </form>
   </div>
