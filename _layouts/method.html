@@ -77,6 +77,14 @@ layout: default
             {{ content }}
         </div>
         {% include comment-form.html %}
+        <ul>
+            {% for entry in site.data.comments %}
+
+            <li>{{ entry | map: "name" }}</li>
+            <li>{{ entry | map: "message" }}</li></br>
+
+            {% endfor %}
+        </ul>
     </div>
 
 </div>
