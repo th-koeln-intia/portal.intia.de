@@ -84,7 +84,7 @@ layout: default
     <div class="card">
       <header class="card-header">
         <p class="card-header-title">
-          {{ entry | map: "name" }}</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ entry | map: "date" }}
+          {{ entry | map: "name" }}</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ entry | map: "date" | date: "%-m"}}
         </p>
 
       </header>
