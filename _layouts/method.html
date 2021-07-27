@@ -85,8 +85,7 @@ layout: default
       <header class="card-header">
         <p class="card-header-title">
           {{ entry | map: "name" }}</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          {% assign test =  entry | map: "date" %}
-          {{ test.date | date: "%B %d, %Y" }}
+          {{ entry | map: "date" }}
         </p>
 
       </header>
