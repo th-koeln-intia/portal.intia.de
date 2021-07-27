@@ -84,7 +84,7 @@ layout: default
     <div class="card">
       <header class="card-header">
         <p class="card-header-title">
-          {% assign m = entryyy | map: "date" %}
+          {% assign m = entry | map: "date" %}
           {{ entry | map: "name" }}</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ m | date: "%Y-%m-%d" }}
         </p>
 
