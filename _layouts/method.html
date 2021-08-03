@@ -79,9 +79,8 @@ layout: default
     {% include comment-form.html %}
 
     {% for entry in site.data.comments %}
-    {% assign entrypath = entry | map: "pagepath" %}
 
-    {% if entrypath == '/methods' %}
+    {% if entry contains "/methods" %}
     <div class="card">
       <header class="card-header">
         <p class="card-header-title">
