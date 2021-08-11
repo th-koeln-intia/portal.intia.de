@@ -14,12 +14,12 @@ collections:
     editor:
       preview: false
   # updated fields in blog collection configuration
-  fields:
-    - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-    - { label: 'Title', name: 'title', widget: 'string' }
-    - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-    - { label: 'Author', name: 'author', widget: 'relation', collection: 'authors', display_fields: [display_name], search_fields: [display_name], value_field: 'name'}
-    - { label: 'Body', name: 'body', widget: 'markdown' }
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Author', name: 'author', widget: 'relation', collection: 'authors', display_fields: [display_name], search_fields: [display_name], value_field: 'name'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   - label: 'Authors'
     name: 'authors'
     folder: '_authors/'
@@ -39,7 +39,7 @@ collections:
     files:
   - label: 'About Page'
     name: 'about'
-    file: 'about.md'
+    folder: '_site/about/'
     fields:
       - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
