@@ -34,9 +34,9 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - label: 'Pages'
     name: 'pages'
+    folder: 'pages/'
     editor:
       preview: false
-    files:
   - label: 'About Page'
     name: 'about'
     folder: '_site/about/'
