@@ -1,7 +1,7 @@
 # config.yml
 backend:
- name: git-gateway
- branch: main # Branch to update (optional; defaults to master)
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
 site_url: https://janseidler.github.io/
 publish_mode: editorial_workflow
 media_folder: 'assets/uploads'
@@ -57,5 +57,5 @@ collections:
             name: 'items'
             widget: 'list'
             fields:
-              - { label: Name, name: name, widget: string }
-              - { label: Link, name: link, widget: string }
+              - { label: 'Name', name: 'name', widget: 'string' }
+              - { label: 'Link', name: 'link', widget: 'string' }
