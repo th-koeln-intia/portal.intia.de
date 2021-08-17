@@ -66,3 +66,11 @@ collections:
             fields:
               - { label: 'Name', name: 'name', widget: 'string' }
               - { label: 'Link', name: 'link', widget: 'string' }
+              - {
+                label: 'Dropdown',
+                name: 'dropdown',
+                widget: 'list'
+                fields:
+                  - { label: 'Name', name: 'name', widget: 'string' }
+                  - { label: 'Link', name: 'link', widget: 'string' }
+              }
