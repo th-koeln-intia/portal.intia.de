@@ -36,3 +36,5 @@ items:
     link: /science/
   - name: Kontakt
     link: /contact/
+  - name: Test Menu
+    link: /test/
