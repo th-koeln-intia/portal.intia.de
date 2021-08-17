@@ -1,5 +1,6 @@
 ---
 short_name: jseidler
+name: jseidler
 display_name: Jan Seidler
 position: Researcher
 ---
