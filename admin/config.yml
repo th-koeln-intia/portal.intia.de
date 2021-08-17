@@ -16,15 +16,18 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Published', name: 'publish', widget: 'string', default: 'true' }
       - {
         label: 'Author',
         name: 'author',
         widget: 'relation',
         collection: 'authors',
-        display_fields: [display_name],
-        search_fields: [display_name],
+        display_fields: [ display_name ],
+        search_fields: [ display_name ],
         value_field: 'name',
       }
+      - { label: 'Categories', name: 'categories', widget: 'string', default: '' }
+      - { label: 'Tags', name: 'tags', widget: 'string', default: '' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - label: 'Authors'
     name: 'authors'
