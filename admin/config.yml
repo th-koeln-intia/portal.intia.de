@@ -60,7 +60,7 @@ collections:
         name: 'navigation'
         file: '_data/navigation.yml'
         fields:
-          - label: 'Navigation Items'
+          - label: 'Navigation Itemss'
             name: 'items'
             widget: 'list'
             fields:
@@ -69,7 +69,7 @@ collections:
               - {
                 label: 'Navigation Topic',
                 name: 'dropdown',
-                widget: 'relation',
+                widget: 'object',
                 fields:
                   - { label: 'Name', name: 'name', widget: 'string' }
                   - { label: 'Link', name: 'link', widget: 'string' }
