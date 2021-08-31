@@ -66,11 +66,4 @@ collections:
             fields:
               - { label: 'Name', name: 'name', widget: 'string' }
               - { label: 'Link', name: 'link', widget: 'string' }
-              - {
-                label: 'Navigation Topic',
-                name: 'dropdown',
-                widget: 'object',
-                fields:
-                  - { label: 'Name', name: 'name', widget: 'string' }
-                  - { label: 'Link', name: 'link', widget: 'string' }
-              }
+              - { label: 'Navigation Topic', name: 'dropdown', widget: 'list' }
