@@ -85,11 +85,10 @@ layout: default
     <div class="card">
       <header class="card-header">
         <p class="card-header-title">
-          {{ entry | map: "name" }}</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          {{ entry | map: "date" }}
+          {{ entry | map: "name" }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ entry | map: "date" }}
         </p>
-
       </header>
+
       <div class="card-content">
         <div class="content">
           {{ entry | map: "message" }}
