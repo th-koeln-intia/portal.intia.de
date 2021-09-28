@@ -1,0 +1,73 @@
+# config.yml
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: 'assets/uploads'
+collections:
+  - label: 'Blog'
+    name: 'blog'
+    folder: 'collections/_posts/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    # updated fields in blog collection configuration
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Published', name: 'publish', widget: 'hidden', default: 'true' }
+      - {
+        label: 'Author',
+        name: 'author',
+        widget: 'relation',
+        collection: 'authors',
+        display_fields: [ display_name ],
+        search_fields: [ display_name ],
+        value_field: 'display_name'
+      }
+      - { label: 'Categories', name: 'categories', widget: 'string', default: '' }
+      - { label: 'Tags', name: 'tags', widget: 'string', default: '' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - label: 'Authors'
+    name: 'authors'
+    folder: 'collections/_authors/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'author' }
+      - { label: 'Short Name', name: 'name', widget: 'string' }
+      - { label: 'Display Name', name: 'display_name', widget: 'string' }
+      - { label: 'Position', name: 'position', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - label: 'About'
+    name: 'about'
+    editor:
+      preview: false
+    folder: 'pages/about/'
+    file: 'about.md'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'config'
+    label: 'Config'
+    editor:
+      preview: false
+    files:
+      - label: 'Navigation'
+        name: 'navigation'
+        file: '_data/navigation.yml'
+        fields:
+          - label: 'Navigation Itemss'
+            name: 'items'
+            widget: 'list'
+            fields:
+              - { label: 'Name', name: 'name', widget: 'string' }
+              - { label: 'Link', name: 'link', widget: 'string' }
+              - {
+                label: 'Dropdown',
+                name: 'dropdown',
+                widget: 'list'
+              }
