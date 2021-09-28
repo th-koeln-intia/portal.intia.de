@@ -51,7 +51,7 @@ comments:
 
   # Name of the site. Used in notification emails.
   name: "portal.intia.de"
-  # Notification settings. When enabled, users can choose to receive notifications
+  # Notification settinggs. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
   # with Mailgun, which you can get for free at http://mailgun.com.
   #notifications:
