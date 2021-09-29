@@ -76,7 +76,22 @@ layout: default
       </table>
       {{ content }}
     </div>
+    {% include comment-form.html %}
 
+    {% assign comments=site.data.comments | where :"pagepath", page.url %}
+
+    {% for entry in comments %}
+
+    <div class="card">
+      <div class="card-header">
+        {{ entry | map: "name" }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ entry | map: "date" }}
+      </div>
+      <div class="card-content">
+        {{ entry | map: "message" }}
+      </div>
+    </div>
+    <br>
+    {% endfor %}
   </div>
 
 </div>
