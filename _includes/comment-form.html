@@ -9,36 +9,41 @@
 <body>
 
 <section class="section">
-  <h2 class="fa fa-comments"> Neues Kommentar </h2>
+  <h1 class="title fa fa-comments"> Neues Kommentar </h1>
 </section>
 
 <form method="POST"
       action="https://staticman.intia.de/v2/entry/janseidler/portal.intia.de/main/comments"
       id="comment2">
 
-  <div class="section">
-    <label class="field prepend-icon">
-      <span class="field-icon"><i class="fa fa-user"></i></span>
-      <input type="text" name="fields[name]" id="name" class="input is-primary"
+  <div class="field">
+    <label class="label">Nutzername</label>
+    <div class="control has-icons-left has-icons-right">
+      <input class="input is-primary" type="text" name="fields[name]" id="name"
              placeholder="(Optional) Name eingeben..." value="Anonymer Mensch">
-    </label>
-  </div><!-- end section -->
+      <span class="icon is-small is-left">
+      <i class="fas fa-user"></i>
+    </span>
+    </div>
+  </div>
 
-  <div class="section" style="display: none;">
-    <label class="field prepend-icon">
-      <span class="field-icon"><i class="fa fa-user"></i></span>
-      <input type="text" name="fields[pagepath]" id="pagepath" class="input is-primary"
-             value="{{page.url}}">
-    </label>
-  </div><!-- end section -->
+  <div class="field" style="display: none;">
+    <div class="control has-icons-left has-icons-right">
+      <input class="input is-primary" type="text" name="fields[pagepath]" id="pagepath"
+             placeholder="(Optional) Name eingeben..." value="{{page.url}}">
+    </div>
+  </div>
 
-  <div class="section">
-    <label class="field prepend-icon">
-      <span class="field-icon"><i class="fa fa-comments"></i></span>
-            <textarea class="textarea is-primary" id="message" name="fields[message]"
-                      placeholder="Kommentieren..." required></textarea>
-    </label>
-  </div><!-- end section -->
+  <div class="field">
+    <label class="label">Kommentar</label>
+    <div class="control has-icons-left has-icons-right">
+      <textarea class="textarea is-primary" id="message" name="fields[message]"
+                placeholder="      Kommentieren..." required>&#13;&#10;</textarea>
+      <span class="icon is-small is-left">
+      <i class="fas fa-comments"></i>
+      </span>
+    </div>
+  </div>
 
   <div className="row button-row">
     <button type="submit" class="button is-primary is-light">Jetzt kommentieren!</button>
